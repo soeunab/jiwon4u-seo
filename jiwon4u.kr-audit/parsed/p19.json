@@ -1,0 +1,646 @@
+{
+  "title": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+  "meta_description": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9\u00b7\ud30c\uc77c\u00b7\uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc4f0\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \uc885\ub958, \ucc57\ubd07\uacfc \ucc28\uc774, \uc9c1\uc7a5\uc778 \ud65c\uc6a9 \uc608\uc2dc\ub97c 2026\ub144 10\uc6d4 \uae30\uc900\uc73c\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+  "h1": [
+    "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694"
+  ],
+  "h2": [
+    "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\ucc57\ubd07\uacfc AI \uc5d0\uc774\uc804\ud2b8\ub294 \uc5b4\ub5bb\uac8c \ub2e4\ub978\uac00\uc694?",
+    "\uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd\uc740 \ubb34\uc2a8 \uad00\uacc4\uc778\uac00\uc694?",
+    "ai \uc5d0\uc774\uc804\ud2b8 \uc885\ub958\ub294 \uc5b4\ub5a4 \uac8c \uc788\ub098\uc694?",
+    "Claude\ub85c \uc9c1\uc7a5\uc778\uc740 \uc5b4\ub5a4 \uc77c\uc744 \ub9e1\uae38 \uc218 \uc788\ub098\uc694?",
+    "\uc2e4\uc81c \ud504\ub86c\ud504\ud2b8 \uc608\uc2dc: \ud68c\uc758\ub85d\uc744 \ubcf4\uace0\uc11c \ucd08\uc548\uc73c\ub85c \ubc14\uafb8\ub824\uba74?",
+    "AI \uc5d0\uc774\uc804\ud2b8\uc5d0 \ub300\ud55c \ud754\ud55c \uc624\ud574\uc640 \uc0ac\uc2e4\uc740?",
+    "\ucc98\uc74c \uc2dc\uc791\ud558\ub294 \uc9c1\uc7a5\uc778\uc758 \ub2e4\uc74c \ub2e8\uacc4\ub294?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+    "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996790880-90acbd47.png",
+      "alt": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791248-84f5e813.png",
+      "alt": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc744 \uc124\uba85\ud558\ub294 \uc5c5\ubb34 \ucc98\ub9ac AI \uc77c\ub7ec\uc2a4\ud2b8",
+      "width": "640",
+      "height": "366",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791338-e9428224.png",
+      "alt": "ai \uc5d0\uc774\uc804\ud2b8 \uc885\ub958\ub97c \uc4f0\uc784\uc0c8\ubcc4\ub85c \ub098\ub208 \uc77c\ub7ec\uc2a4\ud2b8",
+      "width": "640",
+      "height": "366",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791410-6f22441b.png",
+      "alt": "Claude \uc694\uae08\uc81c \ud398\uc774\uc9c0\uc5d0\uc11c Free\uc640 Pro \ube44\uad50 \ud654\uba74",
+      "width": "640",
+      "height": "400",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\uc5c5\ubb34 \uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8?max-results=10",
+        "text": "AI \uc5d0\uc774\uc804\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html",
+        "text": "\ud074\ub85c\ub4dc MCP \ub73b\uacfc AI \uc6a9\uc5b4 \uc815\ub9ac",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b4",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/Claude?max-results=10",
+        "text": "Claude",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8?max-results=10",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html&media=https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t26EysdX0IQxXqnpv8cxQ00E_xYQkhwxGtjC6B_U482y7D2frgaiSlWbSjnGBPC7nrNGWpybjj09GbobPJPHLqYHmqfMyBqq0rr8vBVm0htqfofkgXOPqWcSx77GyYsfOjuAvzSG3Jka9kflU2-RAdqgWH1jMhOdw",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996790880-90acbd47.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791248-84f5e813.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791338-e9428224.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996791410-6f22441b.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://claude.com/pricing",
+        "text": "Claude Pricing (\uacf5\uc2dd)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://claude.com/ko/pricing",
+        "text": "Claude \uc694\uae08\uc81c (\uacf5\uc2dd \ud55c\uad6d\uc5b4 \ud398\uc774\uc9c0)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.anthropic.com/ko/articles/11049744-max-%EC%9A%94%EA%B8%88%EC%A0%9C%EB%8A%94-%EC%96%BC%EB%A7%88%EC%9D%B8%EA%B0%80%EC%9A%94",
+        "text": "Max \uc694\uae08\uc81c\ub294 \uc5bc\ub9c8\uc778\uac00\uc694 (Anthropic \uace0\uac1d\uc9c0\uc6d0)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/2982155672875537505",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=2982155672875537505&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720",
+        "url": "https://www.blogger.com/profile/03228009572074928300"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc"
+      },
+      "headline": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694",
+      "description": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9&#183;\ud30c\uc77c&#183;\uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc4f0\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \uc885\ub958, \ucc57\ubd07\uacfc \ucc28\uc774, \uc9c1\uc7a5\uc778 \ud65c\uc6a9 \uc608\uc2dc\ub97c 2026\ub144 10\uc6d4 \uae30\uc900\uc73c\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t26EysdX0IQxXqnpv8cxQ00E_xYQkhwxGtjC6B_U482y7D2frgaiSlWbSjnGBPC7nrNGWpybjj09GbobPJPHLqYHmqfMyBqq0rr8vBVm0htqfofkgXOPqWcSx77GyYsfOjuAvzSG3Jka9kflU2-RAdqgWH1jMhOdw",
+      "datePublished": "2026-10-03T12:10:00+09:00",
+      "dateModified": "2026-10-12T09:00:43+09:00"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694",
+      "description": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9&#183;\ud30c\uc77c&#183;\uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc4f0\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \uc885\ub958, \ucc57\ubd07\uacfc \ucc28\uc774, \uc9c1\uc7a5\uc778 \ud65c\uc6a9 \uc608\uc2dc\ub97c 2026\ub144 10\uc6d4 \uae30\uc900\uc73c\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "keywords": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b, AI \uc5d0\uc774\uc804\ud2b8, ai \uc5d0\uc774\uc804\ud2b8 \uc885\ub958, AI \uc5d0\uc774\uc804\ud2b8 \uc11c\ube44\uc2a4, MS \uc74c\uc131 AI, \uadc0\ucc2e\uc74c \uacbd\uc81c, Claude Code, Computer Use, \uc9c1\uc7a5\uc778 AI \ud65c\uc6a9",
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 (\uc2e4\uacc4\uc815)"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 (\uc2e4\uacc4\uc815)"
+      },
+      "image": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1790996790880-90acbd47.png"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc744 \ud55c \uc904\ub85c \uc124\uba85\ud558\uba74?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI \uc5d0\uc774\uc804\ud2b8\ub294 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9, \ud30c\uc77c, \ucf54\ub4dc, \uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc0ac\uc6a9\ud558\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \ub2f5\ubcc0\ub9cc \ud558\ub294 \ucc57\ubd07\ubcf4\ub2e4 \uc2e4\uc81c \uc791\uc5c5 \ucc98\ub9ac\uc5d0 \ucd08\uc810\uc744 \ub454 \uac1c\ub150\uc774\uc5d0\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "AI \uc5d0\uc774\uc804\ud2b8\uc640 \ucc57\ubd07\uc758 \ucc28\uc774\ub294 \ubb34\uc5c7\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ucc57\ubd07\uc740 \uc9c8\ubb38\uc5d0 \ub2f5\ud558\ub294 \ub370 \uba38\ubb34\ub974\ub294 \uacbd\uc6b0\uac00 \ub9ce\uace0, AI \uc5d0\uc774\uc804\ud2b8\ub294 \ub3c4\uad6c\ub97c \uc4f0\uba70 \uc791\uc5c5\uc744 \ub2e8\uacc4\ubcc4\ub85c \uc774\uc5b4\uc11c \uc218\ud589\ud574\uc694. \uac19\uc740 \uc11c\ube44\uc2a4\ub77c\ub3c4 \uae30\ub2a5\uc5d0 \ub530\ub77c \ub450 \ubc29\uc2dd\uc774 \uc11e\uc5ec \uc788\uc744 \uc218 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\uadc0\ucc2e\uc74c \uacbd\uc81c\uac00 \ubb34\uc2a8 \ub73b\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uadc0\ucc2e\uc74c \uacbd\uc81c\ub294 \ubc88\uac70\ub85c\uc6b4 \uc77c\uc744 \uc904\uc774\ub824\uace0 \uc11c\ube44\uc2a4\ub098 \ub3c4\uad6c\uc5d0 \ube44\uc6a9\uc744 \uc4f0\ub294 \uc18c\ube44&#183;\uc5c5\ubb34 \ud750\ub984\uc744 \uac00\ub9ac\ud0a4\ub294 \ud45c\ud604\uc774\uc5d0\uc694. \uacf5\uc2dd \uc6a9\uc5b4\ub77c\uae30\ubcf4\ub2e4 \ud2b8\ub80c\ub4dc\ub97c \uc124\uba85\ud558\ub294 \ub9d0\uc774\uc5d0\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Claude\ub294 \ubb34\ub8cc\ub85c AI \uc5d0\uc774\uc804\ud2b8\ucc98\ub7fc \uc4f8 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2026\ub144 10\uc6d4 3\uc77c \uacf5\uc2dd \uc694\uae08\uc81c \uae30\uc900\uc73c\ub85c Claude Free\uc5d0\ub294 \uc6f9 \uac80\uc0c9, \ud30c\uc77c \uc0dd\uc131, \ucf54\ub4dc \uc2e4\ud589\uc774 \ud3ec\ud568\ub3fc\uc694. \uc791\uc5c5 \uc608\uc57d, \ud504\ub85c\uc81d\ud2b8, Chrome&#183;Microsoft 365 \ud655\uc7a5\uc740 Pro \uc774\uc0c1\uc5d0 \ub4e4\uc5b4 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "AI \uc5d0\uc774\uc804\ud2b8 \uc11c\ube44\uc2a4\ub97c \uc4f8 \ub54c \uc8fc\uc758\ud560 \uc810\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc624\ub958\ub098 \ud658\uac01\uc774 \uc0dd\uae38 \uc218 \uc788\uc73c\ub2c8 \uc22b\uc790&#183;\ub0a0\uc9dc&#183;\uc778\uc6a9\uc740 \uc6d0\ubcf8\uacfc \ub300\uc870\ud574\uc57c \ud574\uc694. \ub610 \ud68c\uc0ac \uc790\ub8cc\ub97c \ub123\uae30 \uc804\uc5d0 \uc0ac\ub0b4 \ubcf4\uc548 \uaddc\uc815\uacfc \uc11c\ube44\uc2a4\uc758 \ub370\uc774\ud130 \uc815\ucc45\uc744 \ud655\uc778\ud558\uc138\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "MS \uc74c\uc131 AI \ubaa8\ub378\uc740 \uc5d0\uc774\uc804\ud2b8\uc640 \uc5b4\ub5a4 \uad00\ub828\uc774 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc74c\uc131 AI\uac00 \uc88b\uc544\uc9c0\uba74 \ub9d0\ub85c \uc791\uc5c5\uc744 \uc9c0\uc2dc\ud558\uae30 \uc26c\uc6cc\uc838 \uc5d0\uc774\uc804\ud2b8 \ud65c\uc6a9 \ubb38\ud131\uc774 \ub0ae\uc544\uc9c8 \uc218 \uc788\uc5b4\uc694. \ub2e4\ub9cc \uad6c\uccb4\uc801\uc778 \ubaa8\ub378\uba85\uacfc \uc131\ub2a5\uc740 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uacf5\uc2dd \ubc1c\ud45c\ub85c \ud655\uc778\ud574\uc57c \ud574\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+    "og:title": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t26EysdX0IQxXqnpv8cxQ00E_xYQkhwxGtjC6B_U482y7D2frgaiSlWbSjnGBPC7nrNGWpybjj09GbobPJPHLqYHmqfMyBqq0rr8vBVm0htqfofkgXOPqWcSx77GyYsfOjuAvzSG3Jka9kflU2-RAdqgWH1jMhOdw",
+    "og:description": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9\u00b7\ud30c\uc77c\u00b7\uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc4f0\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \uc885\ub958, \ucc57\ubd07\uacfc \ucc28\uc774, \uc9c1\uc7a5\uc778 \ud65c\uc6a9 \uc608\uc2dc\ub97c 2026\ub144 10\uc6d4 \uae30\uc900\uc73c\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "og:type": "website",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694"
+  },
+  "twitter_card": {
+    "twitter:title": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "twitter:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t26EysdX0IQxXqnpv8cxQ00E_xYQkhwxGtjC6B_U482y7D2frgaiSlWbSjnGBPC7nrNGWpybjj09GbobPJPHLqYHmqfMyBqq0rr8vBVm0htqfofkgXOPqWcSx77GyYsfOjuAvzSG3Jka9kflU2-RAdqgWH1jMhOdw",
+    "twitter:description": "ai \uc5d0\uc774\uc804\ud2b8 \ub73b\uc740 \ubaa9\ud45c\ub97c \ubc1b\uc544 \uac80\uc0c9\u00b7\ud30c\uc77c\u00b7\uc571 \uac19\uc740 \ub3c4\uad6c\ub97c \uc2a4\uc2a4\ub85c \uc4f0\uba70 \uc5ec\ub7ec \ub2e8\uacc4\ub97c \uc218\ud589\ud558\ub294 AI\uc608\uc694. \uc885\ub958, \ucc57\ubd07\uacfc \ucc28\uc774, \uc9c1\uc7a5\uc778 \ud65c\uc6a9 \uc608\uc2dc\ub97c 2026\ub144 10\uc6d4 \uae30\uc900\uc73c\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "twitter:site": "",
+    "twitter:creator": "",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html",
+    "twitter:image:alt": "AI\uc5d0\uc774\uc804\ud2b8 \ub73b \uc26c\uc6b4 \uc815\ub9ac: \uadc0\ucc2e\uc74c \uacbd\uc81c\uc640 MS \uc74c\uc131 AI \uc18c\uc2dd, \uc9c1\uc7a5\uc778\uc740 \ubb58 \uc54c\uc544\uc57c \ud560\uae4c\uc694"
+  },
+  "word_count": 3703,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "title": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+  "meta_description": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30\uc608\uc694. API \uc694\uae08\uc774 \ub530\ub85c \ub098\uac00\uc9c0 \uc54a\ub3c4\ub85d \uae00\uc4f0\uae30\ub294 Claude \uad6c\ub3c5, \uac00\ubcbc\uc6b4 \uc791\uc5c5\uc740 \uc62c\ub77c\ub9c8 \ub85c\uceec \ubaa8\ub378, \uc774\ubbf8\uc9c0\ub294 \uc81c\ubbf8\ub098\uc774\ub85c \ub098\ub208 3\ub2e8 \uad6c\uc870\uc640 \uc0ac\ub78c \uac80\uc218 \uc6d0\uce59, 3\uc77c\uac04 \uc2e4\uacc4\uc815 \ud14c\uc2a4\ud2b8 \uacb0\uacfc\ub97c \uc815\ub9ac\ud588\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+  "h1": [
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870"
+  ],
+  "h2": [
+    "\uc774 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc740 \ubb34\uc5c7\uc744 \ud558\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uc138\ud305\uc740 \uc5b4\ub5bb\uac8c \ub098\ub234\ub098\uc694?",
+    "\uc65c API\uac00 \uc544\ub2c8\ub77c \uad6c\ub3c5\uc73c\ub85c \ub098\ub234\ub098\uc694?",
+    "\uc774\ubbf8\uc9c0\ub294 \uc65c \uc81c\ubbf8\ub098\uc774 API\ub97c \uc4f0\uace0, \uc694\uae08\uc740 \uc5b4\ub5bb\uac8c \ub9c9\uc558\ub098\uc694?",
+    "\uc0ac\ub78c \uac80\uc218\ub294 \uc5b4\ub5bb\uac8c \ub123\uc5c8\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: 3\uc77c \ub3d9\uc548 \uc2e4\uacc4\uc815\uc73c\ub85c \ub3cc\ub824\ubcf4\ub2c8",
+    "\uc774 \uad6c\uc870\uc758 \ud55c\uacc4\ub294 \ubb54\uac00\uc694?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+    "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/w640-h360-rw/claude-blog-automation-3-tier-thumbnail.webp",
+      "alt": "\uc791\uc5c5 \uacbd\ub85c\uac00 \uc138 \uac08\ub798\ub85c \ub098\ub258\ub294 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uad6c\uc870\ub97c \ud45c\ud604\ud55c \uc77c\ub7ec\uc2a4\ud2b8",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgodgEcyAN6s3yQEIVOweZi0mgW1Y5loXh3tTnUxzG3jv87p3a4__rB-TYaXAFEh7RDSTFXHZdvPINGMRkPAU1MQCH6d707LxEe8oTVaBqTqTD1ELyU0enpGW7QlSIFakSzYjqGSaAFH6eJbukpFfeCpNz5OAf0nmg-jdmN0pYTgeOJDqKGH3sUUoGAnAo/w640-h360-rw/content-studio-dashboard.webp",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 \ucf58\ud150\uce20 \uc2a4\ud29c\ub514\uc624\uc758 \uc6d0\uace0 \ubaa9\ub85d \ud654\uba74",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW50wzb4RGflpox_GuHz0mmz7O6FuO-Vp_io3ASGrupDNEIbjWfcwxF_Lw972mXienzLjyQkXSlj4mtfp16L34Vy1MT5Q2Ul3_sw2qKMdqplmQrRcklBnOvgaN01K0CmM83uB1TzgH0Zx1mhQOdelvs4jD1ckysuyKMZDGlgAtTuHWRaEBHCL6h1JBfD4/w640-h360-rw/content-studio-review-screen01.webp",
+      "alt": "\uc6d0\uace0\uc0dd\uc131\uc804 \ube14\ub85c\uadf8 \ucf58\ud150\uce20 \uc8fc\uc81c\ubc1c\uad74 \ud654\uba74",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXdh6dHHQI2b2CjBwuhqn8a5pPTfzHfOVDTo3BRlKBpPQH2d3KZWv0nltXLCNza-z41M2SAEB0G69WQfeOm0ovWw_1KI8412lMS6xJ4UPLHY1pSErccikPB4D91GHgaAg4KIwcL_z7DuMw9uVw11nxLiiY-ZS9lls5uv6U-DchtSEEDPiAcSl7JbxXgLo/w640-h360-rw/content-studio-review-screen02.webp",
+      "alt": "\uc6d0\uace0\uc0dd\uc131\uc804 \ube14\ub85c\uadf8 \ucf58\ud150\uce20 \uc8fc\uc81c \ubc1c\uad74 \uc2e4\ud589\ub41c \ud654\uba74",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy1gJ8csKIP0IcPF_EoxeUgOtBuOAKULLL3bVt8C_vSGxi3aLwnMESR6WNfZ7zC3yibV1LBNfBM5T0vmgu3ErAAS9RZw_j2eaq8YdmjZi5WF_hpXMDofIllj5V8FGO_7SAo4Nc-cHYWrtms8pOHQ1fbamcicDTDkauLkL7v3CjMfciCQrTs227rhh8L5Q/w640-h360-rw/claude-plan-price-thumbnail.webp",
+      "alt": "\uc0ac\uc6a9\ud558\uace0 \uc788\ub294 \ud074\ub85c\ub4dc pro \ud50c\ub79c \uc0ac\uc6a9\ub7c9 \ud55c\ub3c4 \ucea1\uccd0\ud654\uba74",
+      "width": "640",
+      "height": "360",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOZ7gFKSxAUkR_4nw_eeekozt5yM1dcUcC17duGtVmbzaQJnRxoJ3Nah5lFne63HXpNzGwuAEH0eFhEajj6z7AkFKGTTgh21bXBulZzO7L9vnFZs3WsMKV56fg4zbbUN_fO7SE-m686V0ljbot0OK9pgnaO5nuYfrq7GyxyjR2QD3JtUmS9nrsI8mxIrk/w640-h408-rw/gemini-api-monthly-spend-cap.webp",
+      "alt": "\uad6c\uae00 AI \uc2a4\ud29c\ub514\uc624\uc5d0\uc11c \uc81c\ubbf8\ub098\uc774 API \uc6d4 \uc9c0\ucd9c \ud55c\ub3c4\ub97c \uc124\uc815\ud55c \ud654\uba74",
+      "width": "640",
+      "height": "408",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixkFjdOjhAcmpXBkSAmxRjXrRuSlo3WfwisHRx2HHeMON8m5CVooBbpBSpv79Q5qxb8Mu7wifyYZ7dMEn9sykG1F-83FwGO9QRWwkIkauQ3fCpsrckI-NJW_SeS_0u-oqDsc4udB4txbKhRQI3ucLYnqVOmIbfvKOhCBSK6L8EhtDpS7MiNSdBm5vKvb8/w640-h308-rw/content-studio-review-screen03.webp",
+      "alt": "\uacf5\uac1c \uc804\uc5d0 \uc0ac\ub78c\uc774 \uac80\uc218\ud558\ub294 \ube44\uacf5\uac1c \ubc1c\ud589 \uc6d0\uace0 \ud654\uba74",
+      "width": "640",
+      "height": "308",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%98%AC%EB%9D%BC%EB%A7%88?max-results=10",
+        "text": "\uc62c\ub77c\ub9c8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ubcf8\ud3b8 1",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "\uad6c\ub3c5 \ub85c\uadf8\uc778 \ubc29\uc2dd\uacfc API \ubc29\uc2dd\uc758 \ucc28\uc774\ub294 Claude API \uad6c\ub3c5 \ucc28\uc774",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/mac-mini-local-llm-ollama-gemma4-blog-automation.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8?max-results=10",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html&media=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/w640-h360/claude-blog-automation-3-tier-thumbnail.webp",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/s1200/claude-blog-automation-3-tier-thumbnail.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgodgEcyAN6s3yQEIVOweZi0mgW1Y5loXh3tTnUxzG3jv87p3a4__rB-TYaXAFEh7RDSTFXHZdvPINGMRkPAU1MQCH6d707LxEe8oTVaBqTqTD1ELyU0enpGW7QlSIFakSzYjqGSaAFH6eJbukpFfeCpNz5OAf0nmg-jdmN0pYTgeOJDqKGH3sUUoGAnAo/s1200/content-studio-dashboard.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW50wzb4RGflpox_GuHz0mmz7O6FuO-Vp_io3ASGrupDNEIbjWfcwxF_Lw972mXienzLjyQkXSlj4mtfp16L34Vy1MT5Q2Ul3_sw2qKMdqplmQrRcklBnOvgaN01K0CmM83uB1TzgH0Zx1mhQOdelvs4jD1ckysuyKMZDGlgAtTuHWRaEBHCL6h1JBfD4/s1200/content-studio-review-screen01.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXdh6dHHQI2b2CjBwuhqn8a5pPTfzHfOVDTo3BRlKBpPQH2d3KZWv0nltXLCNza-z41M2SAEB0G69WQfeOm0ovWw_1KI8412lMS6xJ4UPLHY1pSErccikPB4D91GHgaAg4KIwcL_z7DuMw9uVw11nxLiiY-ZS9lls5uv6U-DchtSEEDPiAcSl7JbxXgLo/s1200/content-studio-review-screen02.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy1gJ8csKIP0IcPF_EoxeUgOtBuOAKULLL3bVt8C_vSGxi3aLwnMESR6WNfZ7zC3yibV1LBNfBM5T0vmgu3ErAAS9RZw_j2eaq8YdmjZi5WF_hpXMDofIllj5V8FGO_7SAo4Nc-cHYWrtms8pOHQ1fbamcicDTDkauLkL7v3CjMfciCQrTs227rhh8L5Q/s1200/claude-plan-price-thumbnail.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOZ7gFKSxAUkR_4nw_eeekozt5yM1dcUcC17duGtVmbzaQJnRxoJ3Nah5lFne63HXpNzGwuAEH0eFhEajj6z7AkFKGTTgh21bXBulZzO7L9vnFZs3WsMKV56fg4zbbUN_fO7SE-m686V0ljbot0OK9pgnaO5nuYfrq7GyxyjR2QD3JtUmS9nrsI8mxIrk/s1200/gemini-api-monthly-spend-cap.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixkFjdOjhAcmpXBkSAmxRjXrRuSlo3WfwisHRx2HHeMON8m5CVooBbpBSpv79Q5qxb8Mu7wifyYZ7dMEn9sykG1F-83FwGO9QRWwkIkauQ3fCpsrckI-NJW_SeS_0u-oqDsc4udB4txbKhRQI3ucLYnqVOmIbfvKOhCBSK6L8EhtDpS7MiNSdBm5vKvb8/s1200/content-studio-review-screen03.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/7108080024426244049",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=7108080024426244049&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720",
+        "url": "https://www.blogger.com/profile/03228009572074928300"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc"
+      },
+      "headline": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5&#183;\uc62c\ub77c\ub9c8&#183;\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870",
+      "description": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30\uc608\uc694. API \uc694\uae08\uc774 \ub530\ub85c \ub098\uac00\uc9c0 \uc54a\ub3c4\ub85d \uae00\uc4f0\uae30\ub294 Claude \uad6c\ub3c5, \uac00\ubcbc\uc6b4 \uc791\uc5c5\uc740 \uc62c\ub77c\ub9c8 \ub85c\uceec \ubaa8\ub378, \uc774\ubbf8\uc9c0\ub294 \uc81c\ubbf8\ub098\uc774\ub85c \ub098\ub208 3\ub2e8 \uad6c\uc870\uc640 \uc0ac\ub78c \uac80\uc218 \uc6d0\uce59, 3\uc77c\uac04 \uc2e4\uacc4\uc815 \ud14c\uc2a4\ud2b8 \uacb0\uacfc\ub97c \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/w640-h360/claude-blog-automation-3-tier-thumbnail.webp",
+      "datePublished": "2026-10-01T09:38:00+09:00",
+      "dateModified": "2026-10-06T19:23:03+09:00"
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+    "og:title": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/w640-h360/claude-blog-automation-3-tier-thumbnail.webp",
+    "og:description": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30\uc608\uc694. API \uc694\uae08\uc774 \ub530\ub85c \ub098\uac00\uc9c0 \uc54a\ub3c4\ub85d \uae00\uc4f0\uae30\ub294 Claude \uad6c\ub3c5, \uac00\ubcbc\uc6b4 \uc791\uc5c5\uc740 \uc62c\ub77c\ub9c8 \ub85c\uceec \ubaa8\ub378, \uc774\ubbf8\uc9c0\ub294 \uc81c\ubbf8\ub098\uc774\ub85c \ub098\ub208 3\ub2e8 \uad6c\uc870\uc640 \uc0ac\ub78c \uac80\uc218 \uc6d0\uce59, 3\uc77c\uac04 \uc2e4\uacc4\uc815 \ud14c\uc2a4\ud2b8 \uacb0\uacfc\ub97c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "og:type": "website",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870"
+  },
+  "twitter_card": {
+    "twitter:title": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870 - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "twitter:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCurpz8yDoL0r41GMYD6bW9A_fiodrGqOxNRXk2SHzhWPa72OBjseBogJVLczA27Fk-zt_JKUhWgo5obXO-SYTMMCBfxPyjchu_TTcn-PhVhWfHgaAqhyphenhyphen5et8iMeZkB2P3gq8pO_js3rVaRM4wCMvE-uVRt91CG4QvUaVSDcFNpx-vP974nYiN5Zr4wkY/w640-h360/claude-blog-automation-3-tier-thumbnail.webp",
+    "twitter:description": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30\uc608\uc694. API \uc694\uae08\uc774 \ub530\ub85c \ub098\uac00\uc9c0 \uc54a\ub3c4\ub85d \uae00\uc4f0\uae30\ub294 Claude \uad6c\ub3c5, \uac00\ubcbc\uc6b4 \uc791\uc5c5\uc740 \uc62c\ub77c\ub9c8 \ub85c\uceec \ubaa8\ub378, \uc774\ubbf8\uc9c0\ub294 \uc81c\ubbf8\ub098\uc774\ub85c \ub098\ub208 3\ub2e8 \uad6c\uc870\uc640 \uc0ac\ub78c \uac80\uc218 \uc6d0\uce59, 3\uc77c\uac04 \uc2e4\uacc4\uc815 \ud14c\uc2a4\ud2b8 \uacb0\uacfc\ub97c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "twitter:site": "",
+    "twitter:creator": "",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html",
+    "twitter:image:alt": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud6c4\uae30: \uad6c\ub3c5\u00b7\uc62c\ub77c\ub9c8\u00b7\uc81c\ubbf8\ub098\uc774\ub85c API \uc694\uae08 \uc904\uc778 3\ub2e8 \uad6c\uc870"
+  },
+  "word_count": 4170,
+  "hreflang": []
+}

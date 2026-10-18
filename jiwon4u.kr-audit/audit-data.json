@@ -1,0 +1,324 @@
+{
+  "summary": {
+    "health_score": 73,
+    "business_type": "정보형 블로그 / 퍼블리셔 (Blogger, AdSense·제휴)",
+    "top_findings": [
+      "글마다 NewsArticle과 BlogPosting 스키마가 충돌",
+      "모바일 LCP 4.1~5.8s (LCP 이미지 lazy-load)",
+      "소개·개인정보처리방침 title이 'Latest Posts', H1 14개",
+      "작성자 정보·엔터티 부족",
+      "쿠팡 고지문이 스니펫 첫 문장"
+    ],
+    "quick_wins": [
+      "대표 이미지 lazy 해제 + fetchpriority=high",
+      "고정 페이지 제목 입력",
+      "테마 NewsArticle 삭제",
+      "title 접미사 축소",
+      "robots.txt에 sitemap-pages.xml 추가"
+    ]
+  },
+  "categories": [
+    {
+      "name": "Technical SEO",
+      "score": 82,
+      "what_works": [
+        "non-www/http → https://www 301",
+        "모든 글 자기 참조 canonical, ?m=1도 canonical 처리",
+        "라벨·검색 페이지 noindex,follow",
+        "sitemap.xml 27개 글 전부 200, lastmod 정확",
+        "lang=ko, viewport, 404 상태 코드 정상"
+      ],
+      "findings": [
+        {
+          "title": "robots.txt에 고정 페이지 사이트맵 누락",
+          "severity": "Medium",
+          "description": "/sitemap-pages.xml이 robots.txt에 없음",
+          "recommendation": "Sitemap: https://www.jiwon4u.kr/sitemap-pages.xml 추가"
+        },
+        {
+          "title": "404 페이지 canonical에 이중 슬래시",
+          "severity": "Low",
+          "description": "https://www.jiwon4u.kr//p/... 형태",
+          "recommendation": "404에서는 canonical 출력 제거"
+        },
+        {
+          "title": "일부 모바일 UA ?m=1 리디렉션",
+          "severity": "Low",
+          "description": "Lighthouse 모바일 측정 시 1홉 추가",
+          "recommendation": "Blogger 모바일 테마 사용 안 함 확인"
+        }
+      ]
+    },
+    {
+      "name": "Content Quality",
+      "score": 74,
+      "what_works": [
+        "글당 H2 11~19개의 충분한 분량",
+        "핵심 요약 + answer-first 구조",
+        "직접 찍은 화면과 실패 기록 등 1차 경험",
+        "공식 문서 출처 링크 다수",
+        "쿠팡 링크 rel=sponsored"
+      ],
+      "findings": [
+        {
+          "title": "작성자 정보 부족",
+          "severity": "High",
+          "description": "작성자 박스·경력·소개 링크 없음, 바이라인은 Blogger 프로필로 연결",
+          "recommendation": "글 하단 작성자 박스와 소개 페이지 보강"
+        },
+        {
+          "title": "주제 겹침 가능성",
+          "severity": "Medium",
+          "description": "클로드 코드 3편, 블로그 자동화 6편이 비슷한 검색어",
+          "recommendation": "대표 검색어 분리, 상호 링크로 역할 구분"
+        },
+        {
+          "title": "쿠팡 고지문이 스니펫 첫 문장",
+          "severity": "Medium",
+          "description": "홈 카드 요약과 홈 NewsArticle.description 첫 문장이 고지문",
+          "recommendation": "고지문 위치 이동 또는 카드 요약을 메타 설명으로"
+        },
+        {
+          "title": "날짜 표시 형식·타임존",
+          "severity": "Low",
+          "description": "'16 10월, 2026', KST 오전 발행 글이 하루 전으로 표시",
+          "recommendation": "yyyy년 M월 d일, Asia/Seoul"
+        }
+      ]
+    },
+    {
+      "name": "On-Page SEO",
+      "score": 72,
+      "what_works": [
+        "모든 글 고유 title/description/H1 1개",
+        "OG·Twitter Card 완비",
+        "alt 누락 0건",
+        "글당 내부 링크 42~69개"
+      ],
+      "findings": [
+        {
+          "title": "소개·개인정보처리방침 title이 'Latest Posts'",
+          "severity": "High",
+          "description": "테마 H1 빈 값, 개인정보처리방침 H1 14개",
+          "recommendation": "페이지 제목 입력, H1을 h2/p로 정리"
+        },
+        {
+          "title": "title 접미사가 김",
+          "severity": "Medium",
+          "description": "' - 지원포유 - 클로드 활용 가이드' 21자로 제목 51~83자",
+          "recommendation": "' - 지원포유'로 축소"
+        },
+        {
+          "title": "짧은 meta description 18개",
+          "severity": "Medium",
+          "description": "45~62자",
+          "recommendation": "80~120자로 재작성"
+        },
+        {
+          "title": "글 페이지 og:type=website",
+          "severity": "Medium",
+          "description": "article이어야 함",
+          "recommendation": "og:type=article, article:published_time 추가"
+        },
+        {
+          "title": "빈 article:author / twitter:site / twitter:creator",
+          "severity": "Low",
+          "description": "값이 비어 있음",
+          "recommendation": "값 입력 또는 태그 삭제"
+        },
+        {
+          "title": "의미 없는 고정 페이지 URL",
+          "severity": "Low",
+          "description": "blog-page.html, blog-page_18.html",
+          "recommendation": "새 URL로 옮기고 301"
+        }
+      ]
+    },
+    {
+      "name": "Schema / Structured Data",
+      "score": 60,
+      "what_works": [
+        "WebSite + SearchAction",
+        "BreadcrumbList 마이크로데이터",
+        "18개 글 FAQPage"
+      ],
+      "findings": [
+        {
+          "title": "Article 스키마 2개 충돌",
+          "severity": "High",
+          "description": "테마 NewsArticle(Person)과 BlogPosting(Organization)의 작성자·날짜·이미지가 다름",
+          "recommendation": "BlogPosting 하나로 통일"
+        },
+        {
+          "title": "블로그에 NewsArticle 사용",
+          "severity": "Medium",
+          "description": "뉴스 매체가 아님",
+          "recommendation": "BlogPosting 사용"
+        },
+        {
+          "title": "publisher logo / Organization 엔터티 없음",
+          "severity": "Medium",
+          "description": "logo, sameAs 없음",
+          "recommendation": "Organization(@id, logo, sameAs) 추가"
+        },
+        {
+          "title": "9개 글 BlogPosting·FAQPage 누락",
+          "severity": "Medium",
+          "description": "p18~p26",
+          "recommendation": "같은 템플릿 적용"
+        },
+        {
+          "title": "홈 NewsArticle에 본문 전체가 description으로",
+          "severity": "Low",
+          "description": "고지문 포함 수천 자",
+          "recommendation": "홈에서는 Article 블록 제거"
+        }
+      ]
+    },
+    {
+      "name": "Performance (CWV)",
+      "score": 58,
+      "what_works": [
+        "CLS 0",
+        "데스크톱 Perf 90~96",
+        "SEO/Best Practices 100"
+      ],
+      "findings": [
+        {
+          "title": "LCP 이미지 lazy-load",
+          "severity": "High",
+          "description": "모바일 글 LCP 5.8s, 로드 지연 47%",
+          "recommendation": "첫 이미지 eager + fetchpriority=high"
+        },
+        {
+          "title": "AdSense 메인 스레드 부담",
+          "severity": "Medium",
+          "description": "모바일 TBT 510~550ms, 미사용 JS 150KB",
+          "recommendation": "첫 화면 광고 줄이기"
+        },
+        {
+          "title": "이미지 전송 과다",
+          "severity": "Medium",
+          "description": "80~240KB 절감 가능",
+          "recommendation": "썸네일 크기 맞추기"
+        },
+        {
+          "title": "브레드크럼 색 대비 2.72:1",
+          "severity": "Low",
+          "description": "#f67938 on #fff",
+          "recommendation": "더 진한 색 사용"
+        }
+      ]
+    },
+    {
+      "name": "AI Search Readiness",
+      "score": 70,
+      "what_works": [
+        "AI 크롤러 차단 없음",
+        "질문형 H2·요약·FAQ·표",
+        "공식 출처 링크"
+      ],
+      "findings": [
+        {
+          "title": "저자 엔터티 불명확",
+          "severity": "Medium",
+          "description": "Person 정보·sameAs 없음",
+          "recommendation": "작성자 Person + 소개 페이지"
+        },
+        {
+          "title": "llms.txt 없음",
+          "severity": "Low",
+          "description": "404",
+          "recommendation": "선택사항, 우선순위 낮음"
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "score": 85,
+      "what_works": [
+        "alt 누락 0건, 설명적 alt",
+        "WebP, width/height 지정"
+      ],
+      "findings": [
+        {
+          "title": "첫 화면 이미지 lazy",
+          "severity": "Medium",
+          "description": "대표 이미지·로고 lazy",
+          "recommendation": "첫 화면 이미지는 eager"
+        }
+      ]
+    }
+  ],
+  "action_plan": {
+    "phases": [
+      {
+        "name": "Phase 1: Critical Fixes",
+        "timeframe": "Week 1",
+        "items": [
+          "LCP 이미지 eager 처리",
+          "Article 스키마 통일",
+          "고정 페이지 title/H1 수정"
+        ]
+      },
+      {
+        "name": "Phase 2: High-Impact Improvements",
+        "timeframe": "Weeks 2-3",
+        "items": [
+          "작성자 박스·소개 페이지",
+          "p18~p26 스키마 추가",
+          "title 접미사·meta description 정리",
+          "og:type=article"
+        ]
+      },
+      {
+        "name": "Phase 3: Content & Authority",
+        "timeframe": "Month 2",
+        "items": [
+          "주제 겹침 정리와 상호 링크",
+          "Organization 스키마 + sameAs",
+          "고지문 위치 이동",
+          "광고·이미지 최적화"
+        ]
+      },
+      {
+        "name": "Phase 4: Monitoring & Iteration",
+        "timeframe": "Ongoing",
+        "items": [
+          "Search Console 연결 후 색인·CrUX 확인",
+          "분기별 재감사"
+        ]
+      }
+    ]
+  },
+  "artifacts": {
+    "findings_dir": "findings/",
+    "screenshots_dir": "screenshots/"
+  },
+  "lab_performance": {
+    "mobile_home": {
+      "perf": 69,
+      "lcp_s": 4.1,
+      "tbt_ms": 550,
+      "cls": 0
+    },
+    "mobile_post": {
+      "perf": 63,
+      "lcp_s": 5.8,
+      "tbt_ms": 510,
+      "cls": 0
+    },
+    "desktop_home": {
+      "perf": 96,
+      "lcp_s": 1.3,
+      "tbt_ms": 0,
+      "cls": 0
+    },
+    "desktop_post": {
+      "perf": 90,
+      "lcp_s": 1.9,
+      "tbt_ms": 60,
+      "cls": 0
+    }
+  }
+}
