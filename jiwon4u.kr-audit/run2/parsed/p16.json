@@ -1,0 +1,630 @@
+{
+  "title": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c? - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+  "meta_description": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. 2026\ub144 10\uc6d4 \uae30\uc900 \uacf5\ud1b5 \uc791\uc131 \ud2c0\uacfc AI\ubcc4 \ubcf4\uc815 \ud301\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+  "h1": [
+    "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?"
+  ],
+  "h2": [
+    "\ud504\ub86c\ud504\ud2b8\uac00 \ubb50\uace0, \uac19\uc740 \ubb38\uc7a5\uc778\ub370 \uc65c \ub2f5\uc774 \ub2e4\ub97c\uae4c\uc694?",
+    "\ubcf8\ubb38\uc5d0\uc11c \ub9cc\ub4e4 \uacb0\uacfc\ubb3c\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\uc900\ube44\ud560 \uac83\uc740 \ubb34\uc5c7\uc778\uac00\uc694? \uacf5\ud1b5 \uc791\uc131 \ud2c0 5\uac00\uc9c0",
+    "\uac19\uc740 \ud504\ub86c\ud504\ud2b8\ub97c \uc138 AI\uc5d0 \ub123\uc73c\uba74 \uc2e4\uc81c\ub85c \uc5b4\ub5bb\uac8c \ub2ec\ub77c\uc9c0\ub098\uc694?",
+    "\uacb0\uacfc\uac00 \ub9c8\uc74c\uc5d0 \uc548 \ub4e4\uba74 \uc5b4\ub5bb\uac8c \ub2e4\ub4ec\ub098\uc694?",
+    "AI\ubcc4 \ubcf4\uc815 \ud301\uc740 \uc5b4\ub5bb\uac8c \uc4f0\ub098\uc694?",
+    "\uc6a9\ub3c4\ubcc4\ub85c\ub294 \uc5b4\ub5bb\uac8c \uc751\uc6a9\ud558\ub098\uc694? \uc5c5\ubb34\u00b7\uacac\uc801\u00b7\uc0ac\uc8fc",
+    "\uc8fc\uc758\ud560 \uc810\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220098-bbbbed14.png",
+      "alt": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?",
+      "width": "640",
+      "height": "360",
+      "loading": "eager",
+      "lazy_method": "none"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220524-76546c1f.webp",
+      "alt": "\ud504\ub86c\ud504\ud2b8 \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0 \ud074\ub85c\ub4dc \uac19\uc740 \uc9c0\uc2dc\ubb38\uc744 \ub123\uc5c8\uc744 \ub54c \ub2f5\uc774 \ub2e4\ub974\uac8c \ub098\uc624\ub294 \ubaa8\uc2b5 \ud654\uba74",
+      "width": "640",
+      "height": "312",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220604-b9a295ae.webp",
+      "alt": "\uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0 \ud074\ub85c\ub4dc \ud504\ub86c\ud504\ud2b8 \uc785\ub825\ucc3d\uc5d0 \uacf5\ud1b5 \uc791\uc131 \uc9c0\uc2dc\ubb38\uc744 \ubd99\uc5ec \ub123\uc740 \ud654\uba74",
+      "width": "640",
+      "height": "343",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc774",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%B1%97%EC%A7%80%ED%94%BC%ED%8B%B0?max-results=10",
+        "text": "\ucc57\uc9c0\ud53c\ud2f0",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? \uae00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8?max-results=10",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/local-llm-meaning-vs-cloud-ai.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html&media=https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sQmrzvJMM4ueXUkwQ5PoSPEa2s2VuWA_iZfTMQ7E4F4vsc5AY0s-NQxJJ8mnJB9h5FzuIqz0YUdHngjywfneIr1Rp4pKjVg06Aq7CvY0tSXClGsjsf5bfAcmaJ-3ZGlj7Rq-22bo6OlunNa2zPRWzz6PWZOC8o1g",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220098-bbbbed14.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220524-76546c1f.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220604-b9a295ae.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://support.google.com/gemini/answer/16275805",
+        "text": "Gemini \uc571 \uace0\uac1d\uc13c\ud130: \uc0ac\uc6a9 \ud55c\ub3c4\uc640 \ucee8\ud14d\uc2a4\ud2b8",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://gemini.google/release-notes/",
+        "text": "Gemini \ub9b4\ub9ac\uc2a4 \ub178\ud2b8",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://gemini.google/kr/subscriptions/",
+        "text": "Gemini \ud55c\uad6d \uad6c\ub3c5 \ud398\uc774\uc9c0",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/7721517788305401704",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=7721517788305401704&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720",
+        "url": "https://www.blogger.com/profile/03228009572074928300"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc"
+      },
+      "headline": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?",
+      "description": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. 2026\ub144 10\uc6d4 \uae30\uc900 \uacf5\ud1b5 \uc791\uc131 \ud2c0\uacfc AI\ubcc4 \ubcf4\uc815 \ud301\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sQmrzvJMM4ueXUkwQ5PoSPEa2s2VuWA_iZfTMQ7E4F4vsc5AY0s-NQxJJ8mnJB9h5FzuIqz0YUdHngjywfneIr1Rp4pKjVg06Aq7CvY0tSXClGsjsf5bfAcmaJ-3ZGlj7Rq-22bo6OlunNa2zPRWzz6PWZOC8o1g",
+      "datePublished": "2026-10-09T13:31:00+09:00",
+      "dateModified": "2026-10-18T20:48:20+09:00"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?",
+      "description": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. 2026\ub144 10\uc6d4 \uae30\uc900 \uacf5\ud1b5 \uc791\uc131 \ud2c0\uacfc AI\ubcc4 \ubcf4\uc815 \ud301\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "keywords": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, AI \ud504\ub86c\ud504\ud2b8 \uc791\uc131\ubc95, \uc81c\ubbf8\ub098\uc774 \ud504\ub86c\ud504\ud2b8, \ucc57\uc9c0\ud53c\ud2f0 \ud504\ub86c\ud504\ud2b8, \uc0ac\uc8fc \ud504\ub86c\ud504\ud2b8, \ud504\ub86c\ud504\ud2b8 \ub73b, \ud504\ub86c\ud504\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1",
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 (\uc2e4\uacc4\uc815)"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 (\uc2e4\uacc4\uc815)"
+      },
+      "image": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791520220098-bbbbed14.png"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub611\uac19\uc9c0 \uc54a\uc544\uc694. \ubaa8\ub378\ub9c8\ub2e4 \uae30\ubcf8 \ub9d0\ud22c\uc640 \ud615\uc2dd \uc120\ud638, \ube48\uce78\uc744 \ucc44\uc6b0\ub294 \ubc29\uc2dd\uc774 \ub2ec\ub77c\uc11c \uae38\uc774\uc640 \uad6c\uc870\uac00 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. \uac19\uc740 AI\uc5d0\uc11c\ub3c4 \ub2e4\uc2dc \ub3cc\ub9ac\uba74 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud504\ub86c\ud504\ud2b8 \ub73b\uc774 \ubb34\uc5c7\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ud504\ub86c\ud504\ud2b8\ub294 AI\uc5d0\uac8c \uc6d0\ud558\ub294 \uc791\uc5c5\uc744 \uc2dc\ud0a4\ub824\uace0 \uc785\ub825\ud558\ub294 \uc9c0\uc2dc\ubb38\uc774\uc5d0\uc694. \uc9c8\ubb38 \ud55c \uc904\ubd80\ud130 \uc5ed\ud560, \uc790\ub8cc, \ud615\uc2dd\uc744 \ub2f4\uc740 \uae34 \uae00\uae4c\uc9c0 \ubaa8\ub450 \ud504\ub86c\ud504\ud2b8\uc608\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "AI \ud504\ub86c\ud504\ud2b8 \uc791\uc131\ubc95\uc5d0\uc11c \uac00\uc7a5 \uba3c\uc800 \ucc59\uae38 \uac83\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc5ed\ud560, \ubaa9\uc801, \uc790\ub8cc, \ucd9c\ub825 \ud615\uc2dd, \uc81c\uc57d 5\uac00\uc9c0\ub97c \uba3c\uc800 \uc801\ub294 \uac83\uc774 \uae30\ubcf8\uc774\uc5d0\uc694. \ud2b9\ud788 \ucd9c\ub825 \ud615\uc2dd\uacfc \uc81c\uc57d\uc744 \uc801\uc73c\uba74 AI\ub9c8\ub2e4 \ub2ec\ub77c\uc9c0\ub294 \ud3b8\ucc28\ub97c \uc904\uc774\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub3fc\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\uc81c\ubbf8\ub098\uc774 \ud504\ub86c\ud504\ud2b8\ub294 \ub2e4\ub978 AI\uc640 \ub2e4\ub974\uac8c \uc368\uc57c \ud558\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ud06c\uac8c \ub2e4\ub974\uac8c \uc4f8 \ud544\uc694\ub294 \uc5c6\uace0, \uacf5\ud1b5 \ud2c0 \ub05d\uc5d0 \ud615\uc2dd \uc9c0\uc815\uc744 \ubd84\uba85\ud788 \ub367\ubd99\uc774\ub294 \uc815\ub3c4\uba74 \ub3fc\uc694. \uae34 \uc790\ub8cc\ub97c \ubd99\uc77c \ub54c\ub294 Gemini\uc758 \ub300\ud654 \ucc98\ub9ac \ubc94\uc704\uac00 \uc694\uae08\uc81c\ubcc4\ub85c \ub2e4\ub974\ub2e4\ub294 \uc810(\ubbf8\uac00\uc785 32,000\ud1a0\ud070, Plus 128,000\ud1a0\ud070, Pro&#183;Ultra 100\ub9cc \ud1a0\ud070, 2026\ub144 10\uc6d4 \uae30\uc900)\uc744 \uc54c\uc544 \ub450\uc138\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\uc0ac\uc8fc \ud504\ub86c\ud504\ud2b8\ub97c AI\uc5d0 \ub123\uc5b4\ub3c4 \ubbff\uc744 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc0ac\uc8fc \ud480\uc774\ub294 \ucc38\uace0\uc6a9 \ucf58\ud150\uce20\ub85c \ubcf4\ub294 \uac83\uc774 \uc548\uc804\ud574\uc694. \ub2e8\uc815\uc801 \uc608\uc5b8 \ub300\uc2e0 \uac00\ub2a5\uc131\uc73c\ub85c \uc124\uba85\ud558\ub3c4\ub85d \uc81c\uc57d\uc744 \ub123\uace0, \uc911\uc694\ud55c \uacb0\uc815\uc758 \uadfc\uac70\ub85c \uc0bc\uc9c0 \uc54a\ub294 \uac83\uc774 \uc88b\uc544\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+    "og:title": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c? - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sQmrzvJMM4ueXUkwQ5PoSPEa2s2VuWA_iZfTMQ7E4F4vsc5AY0s-NQxJJ8mnJB9h5FzuIqz0YUdHngjywfneIr1Rp4pKjVg06Aq7CvY0tSXClGsjsf5bfAcmaJ-3ZGlj7Rq-22bo6OlunNa2zPRWzz6PWZOC8o1g",
+    "og:description": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. 2026\ub144 10\uc6d4 \uae30\uc900 \uacf5\ud1b5 \uc791\uc131 \ud2c0\uacfc AI\ubcc4 \ubcf4\uc815 \ud301\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "og:type": "website",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?"
+  },
+  "twitter_card": {
+    "twitter:title": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c? - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "twitter:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sQmrzvJMM4ueXUkwQ5PoSPEa2s2VuWA_iZfTMQ7E4F4vsc5AY0s-NQxJJ8mnJB9h5FzuIqz0YUdHngjywfneIr1Rp4pKjVg06Aq7CvY0tSXClGsjsf5bfAcmaJ-3ZGlj7Rq-22bo6OlunNa2zPRWzz6PWZOC8o1g",
+    "twitter:description": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0\uc5d0 \uac19\uc740 \ubb38\uc7a5\uc744 \ub123\uc5b4\ub3c4 \ub2f5\uc740 \ub2ec\ub77c\uc9c8 \uc218 \uc788\uc5b4\uc694. 2026\ub144 10\uc6d4 \uae30\uc900 \uacf5\ud1b5 \uc791\uc131 \ud2c0\uacfc AI\ubcc4 \ubcf4\uc815 \ud301\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "twitter:site": "",
+    "twitter:creator": "",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+    "twitter:image:alt": "\ud504\ub86c\ud504\ud2b8 \ud074\ub85c\ub4dc \uc81c\ubbf8\ub098\uc774 \ucc57\uc9c0\ud53c\ud2f0, \uac19\uc740 \ubb38\uc7a5 \ub123\uc73c\uba74 \ub2f5\uc774 \ub611\uac19\uc744\uae4c?"
+  },
+  "word_count": 3887,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}

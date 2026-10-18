@@ -1,0 +1,669 @@
+{
+  "title": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc) - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+  "meta_description": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub294 Free $0, Pro \uc6d4 $22, Max $110\ubd80\ud130\uc608\uc694(\ud55c\uad6d \uacb0\uc81c, \ubd80\uac00\uc138 \ud3ec\ud568). \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0, Pro\uac00 \ud544\uc694\ud55c \uc21c\uac04, Max\ub85c \uc62c\ub9b4 \uae30\uc900\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+  "h1": [
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)"
+  ],
+  "h2": [
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ud55c\ub208\uc5d0 \ubcf4\ub294 \uacb0\ub860: \ub204\uad6c\uc5d0\uac8c \ubb34\uc5c7\uc774 \ub9de\uc744\uae4c\uc694?",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub97c \uace0\ub974\ub294 \ube44\uad50 \uae30\uc900\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\ud074\ub85c\ub4dc Free\u00b7Pro\u00b7Max \uac00\uaca9\uacfc \uae30\ub2a5 \ube44\uad50\ud45c",
+    "\ud074\ub85c\ub4dc \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0\ub294 \uc5b8\uc81c\uc778\uac00\uc694?",
+    "\ud074\ub85c\ub4dc \ud504\ub85c\uac00 \ud544\uc694\ud55c \uc21c\uac04\uc740 \uc5b8\uc81c\uc778\uac00\uc694?",
+    "\ud074\ub85c\ub4dc Max\uae4c\uc9c0 \uc62c\ub77c\uac00\ub294 \uae30\uc900\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\uacb0\uc81c \uc804\uc5d0 \uc810\uac80\ud560 \uc9c8\ubb38\uc744 \ud504\ub86c\ud504\ud2b8\ub85c \ub9cc\ub4e4\uc5b4 \ubcfc\uae4c\uc694?",
+    "\ud074\ub85c\ub4dc \uad6c\ub3c5\uacfc API\ub294 \uc5b4\ub5bb\uac8c \ub2e4\ub978\uac00\uc694?",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \uc120\ud0dd \uc2dc \uc8fc\uc758\uc0ac\ud56d\uc740 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/w640-h361-rw/claude-pricing-free-pro-max-guide-thumbnail.webp",
+      "alt": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+      "width": "640",
+      "height": "361",
+      "loading": "eager",
+      "lazy_method": "none"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791329741045-87c1b8aa.png",
+      "alt": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c Free Pro Max \uc120\ud0dd \ub2e8\uacc4\ub97c \ud45c\ud604\ud55c \uc77c\ub7ec\uc2a4\ud2b8",
+      "width": "640",
+      "height": "366",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYt7JIr4apNE0DArDPDoJHz8EKujau1HYwYW1CIAosOrrJSir3VQAafZzwX90k8fN6YFaIaH0Bk4JBcjv8IUNKB1AcHtS6tBLrEPfLYzfcngjS3vyrLb2H2taLPYdmfb6cNebwv-2hEAznzEQBERbiZKiINWVGoP0FzFNog2tQBGi3RsO4SkY8pntMFZ0/w640-h314-rw/claude-pricing-ko-vat.webp",
+      "alt": "\ud074\ub85c\ub4dc \ud55c\uad6d\uc5b4 \uac00\uaca9 \ud398\uc774\uc9c0\uc758 Free Pro Max \uc694\uae08\uc81c \ud654\uba74",
+      "width": "640",
+      "height": "314",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791329741177-6bb0e24e.png",
+      "alt": "\ud074\ub85c\ub4dc \ud504\ub85c \uad6c\ub3c5\uc774 \ud544\uc694\ud55c \ud504\ub9ac\ub79c\uc11c \uc791\uc5c5 \uc0c1\ud669 \uc77c\ub7ec\uc2a4\ud2b8",
+      "width": "640",
+      "height": "366",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/<div class=",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "\ud074\ub85c\ub4dc API \uad6c\ub3c5 \ucc28\uc774 \uae00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html",
+        "text": "\ud074\ub85c\ub4dc MCP \ub73b\uacfc AI \uc6a9\uc5b4 \uc815\ub9ac",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "\ud074\ub85c\ub4dc API \uad6c\ub3c5 \ucc28\uc774",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html&media=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/w640-h361/claude-pricing-free-pro-max-guide-thumbnail.webp",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/s1200/claude-pricing-free-pro-max-guide-thumbnail.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791329741045-87c1b8aa.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYt7JIr4apNE0DArDPDoJHz8EKujau1HYwYW1CIAosOrrJSir3VQAafZzwX90k8fN6YFaIaH0Bk4JBcjv8IUNKB1AcHtS6tBLrEPfLYzfcngjS3vyrLb2H2taLPYdmfb6cNebwv-2hEAznzEQBERbiZKiINWVGoP0FzFNog2tQBGi3RsO4SkY8pntMFZ0/s1200/claude-pricing-ko-vat.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791329741177-6bb0e24e.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://claude.com/pricing",
+        "text": "Claude Pricing (\uacf5\uc2dd)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://wikidocs.net/blog/@openwiki/21650/",
+        "text": "Claude Code \uc694\uae08\uc81c \uc5b4\ub5a4 \uac78\ub85c \uc368\uc57c \ud558\ub098 (\uc624\ud508\uc704\ud0a4)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://gptprompts.ai/ko/claude-gagyeok",
+        "text": "Claude \uc694\uae08 2026 (\ud55c\uad6d): Pro, Max, Team \uac00\uaca9\uacfc API \ub2e8\uac00",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://smarttechnote.com/claude-ai-pricing/",
+        "text": "\ud074\ub85c\ub4dc \uac00\uaca9 2026 \u2014 \ub611\ub611\ud55c \ud14c\ud06c \ub178\ud2b8",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://moneyroan.com/claude-pricing-plan-comparison-2026/",
+        "text": "2026 \ud074\ub85c\ub4dc \uc694\uae08\uc81c \ube44\uad50 \ucd1d\uc815\ub9ac",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/5015988967598615981",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=5015988967598615981&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720",
+        "url": "https://www.blogger.com/profile/03228009572074928300"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc"
+      },
+      "headline": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro&#183;Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9&#183;\uad6c\ub3c5\ub8cc)",
+      "description": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub294 Free $0, Pro \uc6d4 $22, Max $110\ubd80\ud130\uc608\uc694(\ud55c\uad6d \uacb0\uc81c, \ubd80\uac00\uc138 \ud3ec\ud568). \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0, Pro\uac00 \ud544\uc694\ud55c \uc21c\uac04, Max\ub85c \uc62c\ub9b4 \uae30\uc900\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/w640-h361/claude-pricing-free-pro-max-guide-thumbnail.webp",
+      "datePublished": "2026-10-07T08:38:00+09:00",
+      "dateModified": "2026-10-18T16:55:42+09:00"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro&#183;Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9&#183;\uad6c\ub3c5\ub8cc)",
+      "description": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub294 Free $0, Pro \uc6d4 $22, Max $110\ubd80\ud130\uc608\uc694(\ud55c\uad6d \uacb0\uc81c \uae30\uc900). \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0, Pro\uac00 \ud544\uc694\ud55c \uc21c\uac04, Max \uae30\uc900\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "keywords": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c, \ud074\ub85c\ub4dc \uac00\uaca9, \ud074\ub85c\ub4dc \ubb34\ub8cc, \ud074\ub85c\ub4dc \ud504\ub85c, \ud074\ub85c\ub4dc \uad6c\ub3c5\ub8cc, \ud074\ub85c\ub4dc ai \uc694\uae08\uc81c, \ud074\ub85c\ub4dc \uad6c\ub3c5, \ud074\ub85c\ub4dc ai \uac00\uaca9, \ud074\ub85c\ub4dc \ud560\uc778, \ud074\ub85c\ub4dc \uc0ac\uc6a9\ubc95",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-18",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "image": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791329740916-cb880b39.png"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \ubb34\ub8cc\ub85c\ub3c4 \uc4f8 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ub124, \ud074\ub85c\ub4dc\ub294 Free \uc694\uae08\uc81c($0)\ub85c \uc4f8 \uc218 \uc788\uc5b4\uc694. \uacf5\uc2dd \uac00\uaca9 \ud398\uc774\uc9c0\uc5d0 \uc6f9&#183;\ub370\uc2a4\ud06c\ud1b1&#183;\ubaa8\ubc14\uc77c \ucc44\ud305, \uc6f9 \uac80\uc0c9, \ud30c\uc77c \uc0dd\uc131, \ucf54\ub4dc \uc2e4\ud589, \uba54\ubaa8\ub9ac, \uc571 \uc5f0\uacb0, \uc544\ud2f0\ud329\ud2b8\uac00 \ud3ec\ud568\ub3fc \uc788\uc5b4\uc694. \ub2e4\ub9cc \uc0ac\uc6a9\ub7c9 \ud55c\ub3c4\ub294 \uc720\ub8cc\ubcf4\ub2e4 \uc801\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \ud504\ub85c \uac00\uaca9\uacfc \uad6c\ub3c5\ub8cc\ub294 \uc5bc\ub9c8\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ud074\ub85c\ub4dc Pro \uad6c\ub3c5\ub8cc\ub294 \ud55c\uad6d \uacb0\uc81c \uae30\uc900 \uc6d4 $22\uc774\uace0, \uc5f0\uac04 \uacb0\uc81c\ub97c \ud558\uba74 1\ub144 $220(\uc6d4 \uc57d $18.3)\uc774\uc5d0\uc694. \ub458 \ub2e4 \uae30\ubcf8 \uac00\uaca9\uc5d0 \ubd80\uac00\uc138 10%\uac00 \ud3ec\ud568\ub41c \uae08\uc561\uc774\uc5d0\uc694. \uc6d0\ud654 \uccad\uad6c\uc561\uc740 \ud658\uc728\uc5d0 \ub530\ub77c \ub2ec\ub77c\uc9c0\ub2c8 \uacb0\uc81c \ud654\uba74\uc5d0\uc11c \ud655\uc778\ud558\uc138\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc Max\ub294 \uc5bc\ub9c8\ubd80\ud130\uc774\uace0 Pro\uc640 \ubb50\uac00 \ub2e4\ub978\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ud074\ub85c\ub4dc Max\ub294 \ud55c\uad6d \uacb0\uc81c \uae30\uc900 \uc6d4 $110\ubd80\ud130 \uc2dc\uc791\ud558\uace0, Pro \ub300\ube44 5\ubc30 \ub610\ub294 20\ubc30 \uc0ac\uc6a9\ub7c9 \uc911\uc5d0\uc11c \uace0\ub974\ub294 \uad6c\uc870\uc608\uc694. \uae30\ubcf8 \uac00\uaca9\uc740 5\ubc30\uac00 $100, 20\ubc30\uac00 $200\uc774\uace0, \ub9e4\ub2ec \uac19\uc740 \uae08\uc561\uc758 API \ud06c\ub808\ub527\uc774 \ud568\uaed8 \ub4e4\uc5b4 \uc788\uc5b4\uc694. \ucd9c\ub825 \ud55c\ub3c4\ub3c4 \ub354 \ub192\uc544\uc11c Claude Code\ub97c \uc624\ub798 \ub3cc\ub9ac\ub294 \uc0ac\ub78c\uc5d0\uac8c \ub9de\uc544\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \ud560\uc778\uc740 \ubc1b\uc744 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uacf5\uc2dd \uac00\uaca9 \ud398\uc774\uc9c0\uc5d0\uc11c \ud655\uc778\ub418\ub294 \ud560\uc778\uc740 Pro\uc758 \uc5f0\uac04 \uacb0\uc81c(1\ub144 $220, \uc6d4 \uacb0\uc81c\ubcf4\ub2e4 \uc57d 17% \uc800\ub834)\uc608\uc694. \uadf8 \ubc16\uc758 \ud504\ub85c\ubaa8\uc158\uc740 \uc2dc\uae30\ub9c8\ub2e4 \ub2ec\ub77c\uc11c \ud655\uc778\ud558\uc9c0 \ubabb\ud588\uc5b4\uc694. \uacb0\uc81c \ud654\uba74\uc5d0\uc11c \uc801\uc6a9 \uc5ec\ubd80\ub97c \uc9c1\uc811 \ud655\uc778\ud558\ub294 \uac8c \uc548\uc804\ud574\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \uad6c\ub3c5\uacfc API \uc694\uae08\uc740 \uac19\uc740 \uac74\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc544\ub2c8\uc694, \uad6c\ub3c5\uacfc API\ub294 \ubcc4\ub3c4\ub85c \uacfc\uae08\ub3fc\uc694. \uad6c\ub3c5\uc740 \uc6d4 \uc815\uc561\uc73c\ub85c claude.ai\uc640 \uc571\uc744 \uc4f0\ub294 \ubc29\uc2dd\uc774\uace0, API\ub294 \uc0ac\uc6a9\ud55c \ud1a0\ud070\ub9cc\ud07c \ub0b4\ub294 \uc885\ub7c9\uc81c\uc608\uc694. \ub2e4\ub9cc Max \uc694\uae08\uc81c\uc5d0\ub294 \ub9e4\ub2ec API \ud06c\ub808\ub527(5x $100, 20x $200)\uc774 \ub4e4\uc5b4 \uc788\uc5b4\uc694. \uc571\uc5d0\uc11c \ub300\ud654\ud558\ub294 \uc6a9\ub3c4\ub77c\uba74 \uad6c\ub3c5\ub9cc \ubcf4\uba74 \ub3fc\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \uc0ac\uc6a9 \ud55c\ub3c4\ub294 \uc5b4\ub5bb\uac8c \uc801\uc6a9\ub418\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc720\ub8cc \ud50c\ub79c\uc740 5\uc2dc\uac04 \ub864\ub9c1 \uc138\uc158 \ud55c\ub3c4\uc640 \uc8fc\uac04 \uc0c1\ud55c\uc774 \ud568\uaed8 \uc801\uc6a9\ub3fc\uc694. \ubaa8\ub378\uacfc \uc791\uc5c5\ub7c9, \ud2b9\ud788 Claude Code \uc0ac\uc6a9\ub7c9\uc5d0 \ub530\ub77c \uc18c\uc9c4 \uc18d\ub3c4\uac00 \ub2ec\ub77c\uc694. \uc815\ud655\ud55c \uc218\uce58\ub294 \uacf5\uc2dd \uc548\ub0b4\ub97c \ud655\uc778\ud558\uc138\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+    "og:title": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc) - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/w640-h361/claude-pricing-free-pro-max-guide-thumbnail.webp",
+    "og:description": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub294 Free $0, Pro \uc6d4 $22, Max $110\ubd80\ud130\uc608\uc694(\ud55c\uad6d \uacb0\uc81c, \ubd80\uac00\uc138 \ud3ec\ud568). \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0, Pro\uac00 \ud544\uc694\ud55c \uc21c\uac04, Max\ub85c \uc62c\ub9b4 \uae30\uc900\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "og:type": "website",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)"
+  },
+  "twitter_card": {
+    "twitter:title": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc) - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "twitter:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEims8LE7sztx9eQs-xDXFQrWIXRZ9j_O4YMKL58x_9eWLcTtVLaylnTUVCz-LqwK6DdWbAH8pdXchdYXGnsvNFvjq0BwtHlxE-Y4tWwkrqc9ig6THuo6AFVGtuayzRLJXFpcsXCq7Hj4hHeS7G4tPfCBz4FIlHmrnUal_AXTKPiQKNH8GjRL9lzt6Nq-fM/w640-h361/claude-pricing-free-pro-max-guide-thumbnail.webp",
+    "twitter:description": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c\ub294 Free $0, Pro \uc6d4 $22, Max $110\ubd80\ud130\uc608\uc694(\ud55c\uad6d \uacb0\uc81c, \ubd80\uac00\uc138 \ud3ec\ud568). \ubb34\ub8cc\ub85c \ucda9\ubd84\ud55c \uacbd\uc6b0, Pro\uac00 \ud544\uc694\ud55c \uc21c\uac04, Max\ub85c \uc62c\ub9b4 \uae30\uc900\uc744 \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "twitter:site": "",
+    "twitter:creator": "",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+    "twitter:image:alt": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)"
+  },
+  "word_count": 4010,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "title": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+  "meta_description": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ubd80\ud130 \ub9e5\u00b7\uc708\ub3c4\uc6b0 \uc124\uce58, \ucc98\uc74c \ucf1c\uc11c \ud655\uc778\ud560 \uc124\uc815 4\uac00\uc9c0\uae4c\uc9c0 \uc21c\uc11c\ub300\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+  "h1": [
+    "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac"
+  ],
+  "h2": [
+    "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571\uc740 \ubb34\uc5c7\uc774\uace0, \uc6f9\uacfc \ubb50\uac00 \ub2e4\ub978\uac00\uc694?",
+    "\uc124\uce58 \uc804\uc5d0 \uc900\ube44\ud560 \uac83\uacfc \ube44\uc6a9\uc740 \uc5b4\ub5bb\uac8c \ub418\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58\ub294 \uc5b4\ub5bb\uac8c \ud558\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc124\uce58\uac00 \uc548 \ub420 \ub54c\ub294 \uc5b4\ub5bb\uac8c \ud558\ub098\uc694?",
+    "\ucc98\uc74c \ucf1c\uba74 \uc5b4\ub5a4 \uc124\uc815\ubd80\ud130 \ud655\uc778\ud574\uc57c \ud558\ub098\uc694?",
+    "\ubb34\ub8cc \ud50c\ub79c\uc73c\ub85c\ub3c4 \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571\uc744 \uc4f8 \uc218 \uc788\ub098\uc694?",
+    "\uc0c1\ud669\ubcc4\ub85c \uc5b4\ub5bb\uac8c \ud65c\uc6a9\ud558\uba74 \uc88b\uc744\uae4c\uc694?",
+    "\uc124\uce58 \ud6c4 \uc8fc\uc758\uc0ac\ud56d\uacfc \ud55c\uacc4\ub294 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "1) \ud30c\uc77c \ub9cc\ub4e4\uae30 \uae30\ub2a5",
+    "2) \ucee4\ub125\ud130",
+    "3) \uc2a4\ud0ac",
+    "4) \ud655\uc7a5 \ud504\ub85c\uadf8\ub7a8",
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792733-4d584b27.png",
+      "alt": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95 \uc378\ub124\uc77c",
+      "width": "640",
+      "height": "360",
+      "loading": "eager",
+      "lazy_method": "none"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793268-04872a13.png",
+      "alt": "\ud074\ub85c\ub4dc \uc785\ub825\ucc3d \uc544\ub798\uc758 \ucc44\ud305\uacfc Cowork \uc120\ud0dd \ubc84\ud2bc",
+      "width": "640",
+      "height": "125",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792873-2024c64c.png",
+      "alt": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc \ud398\uc774\uc9c0\uc758 \uc6b4\uc601\uccb4\uc81c\ubcc4 \ub2e4\uc6b4\ub85c\ub4dc \ubc84\ud2bc",
+      "width": "640",
+      "height": "410",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793021-40fe6b6e.jpg",
+      "alt": "claude \uc544\uc774\ucf58\uc744 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8 \ud3f4\ub354\ub85c \ub04c\uc5b4 \ub193\ub294 \ucc3d",
+      "width": "640",
+      "height": "424",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792957-59b4c399.png",
+      "alt": "\ud074\ub85c\ub4dc \uc124\uc815 \uae30\ub2a5 \ud654\uba74\uc758 \ud074\ub77c\uc6b0\ub4dc \ucf54\ub4dc \uc2e4\ud589 \ubc0f \ud30c\uc77c \uc0dd\uc131 \uc2a4\uc704\uce58",
+      "width": "640",
+      "height": "294",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793076-fcd697b4.png",
+      "alt": "\ud074\ub85c\ub4dc \uc0ac\uc6a9\uc790 \uc9c0\uc815 \ucee4\ub125\ud130 \ud654\uba74\uc5d0 \uc5f0\uacb0\ub41c \ucee4\ub125\ud130 \ubaa9\ub85d",
+      "width": "640",
+      "height": "500",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793138-0f2fe57e.png",
+      "alt": "\ud074\ub85c\ub4dc \uc0ac\uc6a9\uc790 \uc9c0\uc815 Skills \ud654\uba74\uc758 Anthropic \uae30\ubcf8 \uc81c\uacf5 \uc2a4\ud0ac 5\uac1c",
+      "width": "640",
+      "height": "388",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793208-1423e855.jpg",
+      "alt": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571 \uc124\uc815\uc758 \ud655\uc7a5 \ud504\ub85c\uadf8\ub7a8 \ud654\uba74",
+      "width": "640",
+      "height": "326",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html",
+        "text": "\ud074\ub85c\ub4dc MCP \ub73b\uacfc AI \uc6a9\uc5b4 \uc815\ub9ac",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html",
+        "text": "\ud074\ub85c\ub4dc API \uad6c\ub3c5 \ucc28\uc774",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-ppt-making-prompt-guide.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A7%81%EC%9E%A5%EC%9D%B8%20AI?max-results=10",
+        "text": "\uc9c1\uc7a5\uc778 AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html",
+        "text": "\ud074\ub85c\ub4dc \uc5d1\uc140 \uc0ac\uc6a9\ubc95: \ud30c\uc77c \uc62c\ub824 \ud45c \uc815\ub9ac\u00b7\uc218\uc2dd\u00b7\ucc28\ud2b8\uae4c\uc9c0 \ubc1b\ub294 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html&media=https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tKS_lBsW-oKI-FKb-uHUKAjEYAe_w7LZ8BRk_GhzaAbWIi09F-zBb34JOuTQckwdJDM8RF75vexVl8fbTdXhs_c8dNcDakrmCT79o_doRN87ok3RCEyNc21-pgeUxYDbRkwH1tWB4wLth_5_RZDTCf_IM383px9Bo",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792733-4d584b27.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793268-04872a13.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792873-2024c64c.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793021-40fe6b6e.jpg",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792957-59b4c399.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793076-fcd697b4.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793138-0f2fe57e.png",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941793208-1423e855.jpg",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://support.claude.com/en/articles/10065433-install-claude-desktop",
+        "text": "Install Claude Desktop (Claude \uc9c0\uc6d0 \uc13c\ud130)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://claude.com/download",
+        "text": "Claude \ub2e4\uc6b4\ub85c\ub4dc",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude",
+        "text": "Create and edit files with Claude (Claude \uc9c0\uc6d0 \uc13c\ud130)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://code.claude.com/docs/en/desktop-quickstart",
+        "text": "Claude Code Desktop quickstart",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://claude.com/pricing",
+        "text": "Claude \uc694\uae08\uc81c(\uae30\ub2a5 \ube44\uad50 \ud45c)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://claude.com/docs/third-party/claude-desktop/installation",
+        "text": "Claude Desktop \uc124\uce58\uc640 \uc5c5\ub370\uc774\ud2b8 (Claude \ubb38\uc11c)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.claude.com/en/articles/16761823",
+        "text": "\uc0c8 Claude \uacbd\ud5d8: \ucc44\ud305\uacfc Cowork \ud1b5\ud569 (Claude \uc9c0\uc6d0 \uc13c\ud130)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/7668159657349243575",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=7668159657349243575&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720",
+        "url": "https://www.blogger.com/profile/03228009572074928300"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc"
+      },
+      "headline": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac",
+      "description": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ubd80\ud130 \ub9e5&#183;\uc708\ub3c4\uc6b0 \uc124\uce58, \ucc98\uc74c \ucf1c\uc11c \ud655\uc778\ud560 \uc124\uc815 4\uac00\uc9c0\uae4c\uc9c0 \uc21c\uc11c\ub300\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tKS_lBsW-oKI-FKb-uHUKAjEYAe_w7LZ8BRk_GhzaAbWIi09F-zBb34JOuTQckwdJDM8RF75vexVl8fbTdXhs_c8dNcDakrmCT79o_doRN87ok3RCEyNc21-pgeUxYDbRkwH1tWB4wLth_5_RZDTCf_IM383px9Bo",
+      "datePublished": "2026-10-14T00:49:00+09:00",
+      "dateModified": "2026-10-18T20:48:13+09:00"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac",
+      "description": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ubd80\ud130 \ub9e5&#183;\uc708\ub3c4\uc6b0 \uc124\uce58, \ucc98\uc74c \ucf1c\uc11c \ud655\uc778\ud560 \uc124\uc815 4\uac00\uc9c0\uae4c\uc9c0 \uc21c\uc11c\ub300\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+      "keywords": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc, \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc124\uce58, \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571, \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc0ac\uc6a9\ubc95, \ud074\ub85c\ub4dc pc \uc571, \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc124\uce58 \uc548\ub428",
+      "datePublished": "2026-10-14",
+      "dateModified": "2026-10-14",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "image": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1791941792733-4d584b27.png"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ub294 \uc5b4\ub514\uc11c \ud558\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uacf5\uc2dd \ub2e4\uc6b4\ub85c\ub4dc \ud398\uc774\uc9c0\uc778 claude.com/download\uc5d0\uc11c \ubc1b\uc544\uc694. macOS, Windows, Windows(arm64), Microsoft Store, Linux \uc548\ub0b4\uac00 \ud55c \uacf3\uc5d0 \ubaa8\uc5ec \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571\uc740 \ubb34\ub8cc\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc571 \uc124\uce58\uc640 Chat\uc740 \ubb34\ub8cc \ud50c\ub79c\uc744 \ud3ec\ud568\ud55c \ubaa8\ub4e0 \uc694\uae08\uc81c\uc5d0\uc11c \uc4f8 \uc218 \uc788\uc5b4\uc694. Claude Code\uc640 Claude Cowork\ub294 Pro&#183;Max&#183;Team&#183;Enterprise \uc720\ub8cc \ud50c\ub79c\uc774 \ud544\uc694\ud574\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc pc \uc571\uc758 \ucd5c\uc18c \uc0ac\uc591\uc740 \uc5b4\ub5bb\uac8c \ub418\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "macOS 11(Big Sur) \uc774\uc0c1, Windows 10 \uc774\uc0c1\uc774\uc5d0\uc694. Linux\ub294 Ubuntu 22.04 LTS \uc774\uc0c1 \ub610\ub294 Debian 12 \uc774\uc0c1\uc774\uace0 \ubca0\ud0c0\uc608\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ub9e5\uc740 \uc778\ud154\uacfc \uc560\ud50c \uc2e4\ub9ac\ucf58 \uc911 \uc5b4\ub5a4 \ud30c\uc77c\uc744 \ubc1b\uc544\uc57c \ud558\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ub9e5\uc740 \uc778\ud154\uacfc \uc560\ud50c \uc2e4\ub9ac\ucf58 \uacf5\uc6a9 \uc720\ub2c8\ubc84\uc124 DMG \ud55c \uac00\uc9c0\ub77c\uc11c \uace0\ubbfc\ud560 \ud544\uc694\uac00 \uc5c6\uc5b4\uc694. \uc708\ub3c4\uc6b0\ub294 x64\uc640 ARM64 \uc124\uce58 \ud30c\uc77c\uc774 \ub530\ub85c \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Claude Code\ub97c \uc4f0\ub824\uba74 Node.js\ub97c \ub530\ub85c \uc124\uce58\ud574\uc57c \ud558\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc124\uce58\ud558\uc9c0 \uc54a\uc544\ub3c4 \ub3fc\uc694. \ub370\uc2a4\ud06c\ud0d1 \uc571\uc5d0 Claude Code\uac00 \ub4e4\uc5b4 \uc788\uc5b4\uc11c Code \ud0ed\uc744 \ubc14\ub85c \uc4f8 \uc218 \uc788\uc5b4\uc694. \ub2e8, \uc720\ub8cc \ud50c\ub79c\uc774 \ud544\uc694\ud574\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc\uc5d0\uc11c \uc5d1\uc140\uc774\ub098 PPT \ud30c\uc77c\ub3c4 \ub9cc\ub4e4 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ub9cc\ub4e4 \uc218 \uc788\uc5b4\uc694. .xlsx, .pptx, .docx, PDF\ub97c Free \ud3ec\ud568 \ubaa8\ub4e0 \ud50c\ub79c\uc5d0\uc11c \ub9cc\ub4e4 \uc218 \uc788\uace0, \ud30c\uc77c \ud558\ub098\ub294 \ucd5c\ub300 30MB\uc608\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+    "og:title": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tKS_lBsW-oKI-FKb-uHUKAjEYAe_w7LZ8BRk_GhzaAbWIi09F-zBb34JOuTQckwdJDM8RF75vexVl8fbTdXhs_c8dNcDakrmCT79o_doRN87ok3RCEyNc21-pgeUxYDbRkwH1tWB4wLth_5_RZDTCf_IM383px9Bo",
+    "og:description": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ubd80\ud130 \ub9e5\u00b7\uc708\ub3c4\uc6b0 \uc124\uce58, \ucc98\uc74c \ucf1c\uc11c \ud655\uc778\ud560 \uc124\uc815 4\uac00\uc9c0\uae4c\uc9c0 \uc21c\uc11c\ub300\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "og:type": "website",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac"
+  },
+  "twitter_card": {
+    "twitter:title": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "twitter:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tKS_lBsW-oKI-FKb-uHUKAjEYAe_w7LZ8BRk_GhzaAbWIi09F-zBb34JOuTQckwdJDM8RF75vexVl8fbTdXhs_c8dNcDakrmCT79o_doRN87ok3RCEyNc21-pgeUxYDbRkwH1tWB4wLth_5_RZDTCf_IM383px9Bo",
+    "twitter:description": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\ubd80\ud130 \ub9e5\u00b7\uc708\ub3c4\uc6b0 \uc124\uce58, \ucc98\uc74c \ucf1c\uc11c \ud655\uc778\ud560 \uc124\uc815 4\uac00\uc9c0\uae4c\uc9c0 \uc21c\uc11c\ub300\ub85c \uc815\ub9ac\ud588\uc5b4\uc694.",
+    "twitter:site": "",
+    "twitter:creator": "",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html",
+    "twitter:image:alt": "\ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \ub2e4\uc6b4\ub85c\ub4dc\uc640 \uc124\uce58 \ubc29\ubc95: \ucc98\uc74c \ucf1c\uc11c \uc124\uc815\ud560 \uac83\uae4c\uc9c0 \uc815\ub9ac"
+  },
+  "word_count": 3942,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}
