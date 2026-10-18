@@ -1,0 +1,634 @@
+{
+  "title": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815 - \uc9c0\uc6d0\ud3ec\uc720",
+  "meta_description": "\uad6c\uae00 \ube14\ub85c\uadf8(Blogger) \ubb34\ub8cc \ud14c\ub9c8 \uc81c\ud2b8\ud14c\ub9c8\ub97c XML \ud30c\uc77c\ub85c \uc124\uce58\ud558\ub294 \ubc29\ubc95\uacfc, \ud074\ub85c\ub4dc\uc5d0\uac8c \ucf54\ub4dc\ub97c \ubcf4\uc5ec \uc8fc\uba70 \uace0\uce5c \uacfc\uc815\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \uc9c1\uc811 \uacaa\uc740 \ubb38\uc81c 6\uac00\uc9c0, \uc774\ubbf8\uc9c0 \ud06c\uae30 \ub9de\ucd94\uae30, \uc218\uc815 \ub4a4 \uc18d\ub3c4 \uc810\uc218 \ubcc0\ud654\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+  "h1": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815"
+  ],
+  "h2": [
+    "\uc81c\ud2b8\ud14c\ub9c8\ub294 \uc5b4\ub5a4 \ud14c\ub9c8\uc778\uac00\uc694?",
+    "\uc81c\ud2b8\ud14c\ub9c8\ub294 \uc5b4\ub5bb\uac8c \uc124\uce58\ud558\ub098\uc694?",
+    "\ud074\ub85c\ub4dc\uc5d0\uac8c\ub294 \uc5b4\ub5bb\uac8c \ubd80\ud0c1\ud588\ub098\uc694?",
+    "\uc9c1\uc811 \uacaa\uc740 \ubb38\uc81c 6\uac00\uc9c0",
+    "\uc774\ubbf8\uc9c0 \ud06c\uae30\uc640 \uc6a9\ub7c9\uc740 \uc5b4\ub5bb\uac8c \ub9de\ucdc4\ub098\uc694?",
+    "\uc218\uc815\ud558\uba74 \uc18d\ub3c4 \uc810\uc218\ub294 \uc5b4\ub5bb\uac8c \ub2ec\ub77c\uc9c0\ub098\uc694?",
+    "\ucd5c\uadfc\uc5d0 \ucd94\uac00 \uc218\uc815: \ub2e4\ud06c\ubaa8\ub4dc \ub85c\uace0",
+    "\uc81c\uac00 \uc4f0\ub294 \uc791\uc5c5 \ud658\uacbd",
+    "\ud074\ub85c\ub4dc\ub97c \ucc98\uc74c \uc368 \ubcf8\ub2e4\uba74",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/s1600-rw/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "640",
+      "height": "360",
+      "loading": "eager",
+      "lazy_method": "none"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7GX-etn6ZxFTT-LPTdy57JNVciES-LKHhRm_ElqcULBdcIPDwF23TR6mcDvtv8_HOVlP8T0eYXVGB01YTYflOSsN7bw1X8AH8ItiBTV-OmTPpRFOKxRNQ3N0CN2snEloKXuyym4ypGdfngz_zoIPEwpNnruMjHCjkWe3FNNUzGV2T3Rq1Pxc1XdWBlBo/w640-h336-rw/mobile-pagespeed.web.dev.jpg",
+      "alt": "\uc81c\ud2b8\ud14c\ub9c8 \uc6d0\ubcf8\uc744 \uc801\uc6a9\ud55c \uc0c1\ud0dc\uc758 PageSpeed Insights \ubaa8\ubc14\uc77c \uc131\ub2a5 99\uc810(2026\ub144 8\uc6d4 29\uc77c)",
+      "width": "640",
+      "height": "336",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3v646Jb9X59-lUtGL47r9vDnxRkznIWDo_ND_1iNPmWTaHom9kdRZpxU2QMMNbwTorwEH3x8VlV7d_GJBbeXFAfoVmuz5wndcegpG9kP86jbAhthahhaoiYzq3y8fMv-AWCnrziymIVvw-u2ycm5rQJj1ayQNK8MV30ZvkmgInW4x5WnNBxhB5ej_q28/w640-h280-rw/pc-pagespeed.web.dev.jpg",
+      "alt": "\uc81c\ud2b8\ud14c\ub9c8 \uc6d0\ubcf8\uc744 \uc801\uc6a9\ud55c \uc0c1\ud0dc\uc758 PageSpeed Insights \ub370\uc2a4\ud06c\ud1b1 \uc131\ub2a5 100\uc810(2026\ub144 8\uc6d4 29\uc77c)",
+      "width": "640",
+      "height": "280",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2UKJtdqU_40SrcKRS1LRkBnG2APHPWzx8dL6uc4deWF1IgL-LqtNcqV9YtZLMMG-4us2LBf7StgVbjkw7PM5qj4lC8Mjirr1TL4lNY8MV8UslpOAyzSLS7C6Wtyxb1w4u5nMSz0kz4AaQCAE6PwTsgIVAlyIzay8P4BnPEg4SQ-uk_Sw6zupQebJRqjw/w640-h202-rw/jetthema-download-location.jpg",
+      "alt": "\uc81c\ud2b8\ud14c\ub9c8 \uc2a4\ud0a8 \uae43\ud5c8\ube0c \ub2e4\uc6b4\ub85c\ub4dc \ud30c\uc77c\uba85 \ubc0f \uc704\uce58",
+      "width": "640",
+      "height": "202",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_-Z2yJd7Gcg4hjBih-axn95_tRJ7lJZenc05z5L-0g0g9ltvohis5et3sTlnmD08vJnmHIP6ScpJeJT0SNEr5SSff9dRrIGIUPBzwJegtxOTvoJFsXMr7HLifpXYqTlEeVBVcPNcJc1Xskq81EYKJbIHSJAsNXNHq7WCQKUTcMu8pxvPiXynjuWRWOQ/w640-h194-rw/jetthema-download.jpg",
+      "alt": "\uc81c\ud2b8\ud14c\ub9c8 \uc2a4\ud0a8 \uae43\ud5c8\ube0c \ub2e4\uc6b4\ub85c\ub4dc \uc800\uc7a5",
+      "width": "640",
+      "height": "194",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauNcJvBSlweRCQ686hxn9bYBcBfDqkiR4w19PkFK-M2YuRx4nqoQR1H0oS2IFHJiYZRUQGos7FXi7GQqdf7lQ2ogzNd4gh2EPfqK7xNYtMpAvSkXfEdlfz9dUeE_nbK0k-k7qD5j-sp0FVqt1b9lQWHUAdDPwOWoaUi673os8Z4mcO0-yS8KJJouVvBo/w640-h410-rw/google-blogger-theme-restore.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \ubcf5\uc6d0",
+      "width": "640",
+      "height": "410",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFghNFgPzx3wD7IssKrMwQuvEhfp8lVMzVtL11XB31WVF_H5QrFJ5x7dEYV-VrzlTKnxrObxC66WdCBaZKh80ntnV0xbF1oJCt1ZZnpBQvMFgNNpJ7HnHDbAxrfj0t4URxohmWUMd6vzWnK9emQeP6VH-sJkAmXaxdjc8O04NttlTRul3QJ1lWXyOR6ok/s1600-rw/psi-mobile-2026-10-12.jpg",
+      "alt": "PageSpeed Insights \ubaa8\ubc14\uc77c \uc131\ub2a5 79\uc810 \uce21\uc815 \uacb0\uacfc(2026\ub144 10\uc6d4 12\uc77c)",
+      "width": "640",
+      "height": "400",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiNQOqpR3teviinOfYXpoIN-eaHrHE9lKqKXSp1Jevhu-fJFXOX5mjNmTx_OR5Aqgbx9AgDqShbG1pzYxbyf8soS7uULwiqjZN1_bEArFA_Kre8fwWOKz7HmOofijnsnwvkmTJBzTnelt_XEWjzggYLLGhrszXurMOXktQPhW5X1W91t75Q1KUFxYOz0Q/s1600-rw/psi-desktop-2026-10-12.jpg",
+      "alt": "PageSpeed Insights \ub370\uc2a4\ud06c\ud1b1 \uc131\ub2a5 96\uc810 \uce21\uc815 \uacb0\uacfc(2026\ub144 10\uc6d4 12\uc77c)",
+      "width": "640",
+      "height": "400",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkz-a4A0JKAs0ljco4NCAsies5rC_VIXVAHRU91So6DvG2AEKrfWfzuRv86SdkIJzltzyC3Mq1u511NA9g-pSprVMOaAQEK8viHZC3JZQ97Oe3YqY5dKDAKKPI6i32RgX4ew91GV-YK1M7HEvn8NjlTULSiFNaH0qwZ-HeMMS12flvZ-5tKE3-bAeLFew/s1600-rw/header-light.png",
+      "alt": "\ub77c\uc774\ud2b8 \ubaa8\ub4dc\uc5d0\uc11c \ubcf4\uc774\ub294 \uc9c0\uc6d0\ud3ec\uc720 \ud5e4\ub354 \ub85c\uace0",
+      "width": "640",
+      "height": "33",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuhurKNq6DwG_uvcRueoTwC1XRTJbhr-KWlvT8zrx-96QcqyKB5Jrzcwt8SK688oC-cqaiy7eXppDkzlUxc_tPoK1YTJNXbwPKciT-92-rZj2Wg6Rwbm_FtwZInEex7wMDqhHBWtW2BA_8QiQnxQB0chZ0s4yryOsE7T6fyW9lp_sdBAnD5Z6rIsCKShE/s1600-rw/header-dark.png",
+      "alt": "\ub2e4\ud06c \ubaa8\ub4dc\uc5d0\uc11c \ubcf4\uc774\ub294 \uc9c0\uc6d0\ud3ec\uc720 \ud5e4\ub354 \ub85c\uace0",
+      "width": "640",
+      "height": "33",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8?max-results=10",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html&media=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/s1600/thumb-jettheme-1200x675.jpg",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://github.com/jettheme/core",
+        "text": "github.com/jettheme/core",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://link.coupang.com/a/hMdJZFCW28",
+        "text": "Apple \ub9e5 \ubbf8\ub2c8 M4 Pro 12\ucf54\uc5b4 CPU, 16\ucf54\uc5b4 GPU, \uba54\ubaa8\ub9ac 24GB",
+        "rel": [
+          "sponsored",
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://link.coupang.com/a/hMdLGVaYRE",
+        "text": "Apple 2026 \ub9e5\ubbf8\ub2c8 M5 Pro 15\ucf54\uc5b4 CPU, 16\ucf54\uc5b4 GPU, \uba54\ubaa8\ub9ac 24GB",
+        "rel": [
+          "sponsored",
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://link.coupang.com/a/hMbMbc3RiC",
+        "text": "Do it! HTML + CSS \uc6f9 \ud45c\uc900\uc758 \uc815\uc11d \uac1c\uc815 3\ud310",
+        "rel": [
+          "sponsored",
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://claude.ai/referral/-R8Gv7TpAg?s=android",
+        "text": "\ud074\ub85c\ub4dc \ubb34\ub8cc 1\uc8fc\uc77c \uccb4\ud5d8 \ub9c1\ud06c (\uac8c\uc2a4\ud2b8 \ud328\uc2a4)",
+        "rel": [
+          "sponsored",
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://github.com/jettheme/core",
+        "text": "JetTheme \uacf5\uc2dd \uc800\uc7a5\uc18c (GitHub jettheme/core)",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://jettheme.com/",
+        "text": "JetTheme \uacf5\uc2dd \uc0ac\uc774\ud2b8",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://pagespeed.web.dev/",
+        "text": "PageSpeed Insights",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.claude.com/en/articles/12875061-claude-code-guest-passes",
+        "text": "Claude Code \uac8c\uc2a4\ud2b8 \ud328\uc2a4 \uacf5\uc2dd \ub3c4\uc6c0\ub9d0",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/647490159959137806",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@type": "BlogPosting",
+      "headline": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "description": "\uad6c\uae00 \ube14\ub85c\uadf8(Blogger) \ubb34\ub8cc \ud14c\ub9c8 \uc81c\ud2b8\ud14c\ub9c8\ub97c XML \ud30c\uc77c\ub85c \uc124\uce58\ud558\ub294 \ubc29\ubc95\uacfc, \ud074\ub85c\ub4dc\uc5d0\uac8c \ucf54\ub4dc\ub97c \ubcf4\uc5ec \uc8fc\uba70 \uace0\uce5c \uacfc\uc815\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \uc9c1\uc811 \uacaa\uc740 \ubb38\uc81c 6\uac00\uc9c0, \uc774\ubbf8\uc9c0 \ud06c\uae30 \ub9de\ucd94\uae30, \uc218\uc815 \ub4a4 \uc18d\ub3c4 \uc810\uc218 \ubcc0\ud654\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+      "keywords": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8, \ube14\ub85c\uadf8\uc2a4\ud31f \ud14c\ub9c8, \uc81c\ud2b8\ud14c\ub9c8, \ud074\ub85c\ub4dc",
+      "datePublished": "2026-08-30T09:31:06+09:00",
+      "dateModified": "2026-10-18T21:21:20+09:00",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/s1600/thumb-jettheme-1200x675.jpg",
+      "mainEntityOfPage": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "\uc81c\ud2b8\ud14c\ub9c8\ub294 \ubb34\ub8cc\uc778\uac00\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uacf5\uc2dd \uc0ac\uc774\ud2b8 \uae30\uc900\uc73c\ub85c \ubb34\ub8cc \ubc84\uc804(Blog)\uc774 \uc788\uc5b4\uc694. \ubcc4\ub3c4\uc758 \uc720\ub8cc \ubc84\uc804\ub3c4 \uc788\uc73c\ub2c8 \uc5b4\ub5a4 \ud30c\uc77c\uc744 \ubc1b\ub294\uc9c0\ub294 \ud655\uc778\ud574 \ubcf4\uc138\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "HTML\uc744 \ubab0\ub77c\ub3c4 \uc124\uce58\ud560 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc124\uce58\ub294 XML \ud30c\uc77c\uc744 \uc62c\ub9ac\ub294(\ubcf5\uc6d0) \uac83\ub9cc\uc73c\ub85c \ub3fc\uc694. \uc218\uc815\uc740 \ud074\ub85c\ub4dc \uac19\uc740 AI\uc5d0\uac8c \ucf54\ub4dc\ub97c \ubcf4\uc5ec \uc8fc\uba74\uc11c \uc774\uc720\ub97c \ubb3c\uc5b4\ubcf4\uba70 \uc870\uae08\uc529 \uc9c4\ud589\ud560 \uc218 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\uc218\uc815\ud558\uae30 \uc804\uc5d0 \uaf2d \ud574\uc57c \ud560 \uc77c\uc774 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "[\ud14c\ub9c8] \ud654\uba74\uc758 [\ubc31\uc5c5]\uc73c\ub85c \ud604\uc7ac \ud14c\ub9c8\ub97c \uc800\uc7a5\ud574 \ub450\ub294 \uac70\uc608\uc694. \ubb38\uc81c\uac00 \uc0dd\uae30\uba74 \ubcf5\uc6d0\uc73c\ub85c \ub418\ub3cc\ub9b4 \uc218 \uc788\uc5b4\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+    "og:title": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815 - \uc9c0\uc6d0\ud3ec\uc720",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/s1600/thumb-jettheme-1200x675.jpg",
+    "og:description": "\uad6c\uae00 \ube14\ub85c\uadf8(Blogger) \ubb34\ub8cc \ud14c\ub9c8 \uc81c\ud2b8\ud14c\ub9c8\ub97c XML \ud30c\uc77c\ub85c \uc124\uce58\ud558\ub294 \ubc29\ubc95\uacfc, \ud074\ub85c\ub4dc\uc5d0\uac8c \ucf54\ub4dc\ub97c \ubcf4\uc5ec \uc8fc\uba70 \uace0\uce5c \uacfc\uc815\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \uc9c1\uc811 \uacaa\uc740 \ubb38\uc81c 6\uac00\uc9c0, \uc774\ubbf8\uc9c0 \ud06c\uae30 \ub9de\ucd94\uae30, \uc218\uc815 \ub4a4 \uc18d\ub3c4 \uc810\uc218 \ubcc0\ud654\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+    "og:type": "article",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815"
+  },
+  "twitter_card": {
+    "twitter:title": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815 - \uc9c0\uc6d0\ud3ec\uc720",
+    "twitter:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/s1600/thumb-jettheme-1200x675.jpg",
+    "twitter:description": "\uad6c\uae00 \ube14\ub85c\uadf8(Blogger) \ubb34\ub8cc \ud14c\ub9c8 \uc81c\ud2b8\ud14c\ub9c8\ub97c XML \ud30c\uc77c\ub85c \uc124\uce58\ud558\ub294 \ubc29\ubc95\uacfc, \ud074\ub85c\ub4dc\uc5d0\uac8c \ucf54\ub4dc\ub97c \ubcf4\uc5ec \uc8fc\uba70 \uace0\uce5c \uacfc\uc815\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \uc9c1\uc811 \uacaa\uc740 \ubb38\uc81c 6\uac00\uc9c0, \uc774\ubbf8\uc9c0 \ud06c\uae30 \ub9de\ucd94\uae30, \uc218\uc815 \ub4a4 \uc18d\ub3c4 \uc810\uc218 \ubcc0\ud654\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+    "twitter:image:alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815"
+  },
+  "word_count": 4055,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "title": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720",
+  "meta_description": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \ucee4\ub125\ud130 \ubaa9\ub85d\uc5d0\uc11c \uace0\ub974\ub294 \ubc95\uacfc \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\uc5d0 \uc11c\ubc84 \uc8fc\uc18c\ub97c \ub123\ub294 \ubc95, \ub178\uc158 \uc5f0\ub3d9 \ub4a4 \ub3c4\uad6c \uad8c\ud55c\uc744 \uc815\ud558\ub294 \uc21c\uc11c\uc640 \uc548\uc804\ud558\uac8c \uc4f0\ub294 \uae30\uc900\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+  "meta_robots": null,
+  "canonical": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+  "h1": [
+    "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac"
+  ],
+  "h2": [
+    "\ud074\ub85c\ub4dc MCP\uc640 \ucee4\ub125\ud130\ub294 \ubb34\uc5c7\uc778\uac00\uc694?",
+    "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95\uc740 \uc5b4\ub5a4 \uac83\ub4e4\uc774 \uc788\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ucee4\ub125\ud130 \ubaa9\ub85d\uc740 \uc5b4\ub514\uc11c \ubcf4\ub098\uc694?",
+    "\ud074\ub85c\ub4dc \ub178\uc158 \uc5f0\ub3d9\uc740 \uc5b4\ub5bb\uac8c \ud558\ub098\uc694?",
+    "MCP \ub3c4\uad6c \uad8c\ud55c\uc740 \uc5b4\ub5bb\uac8c \uc124\uc815\ud558\ub098\uc694?",
+    "\ub178\uc158 \ucee4\ub125\ud130\ub85c \uc2e4\uc81c \ub300\ud654\uc5d0\uc11c \ubb34\uc5c7\uc744 \ud560 \uc218 \uc788\ub098\uc694?",
+    "\ucee4\uc2a4\ud140 \ucee4\ub125\ud130\ub294 \uc5b4\ub5bb\uac8c \ucd94\uac00\ud558\ub098\uc694?",
+    "\ud074\ub85c\ub4dc MCP\ub97c \uc4f8 \ub54c \uc8fc\uc758\uc0ac\ud56d\uacfc \ud55c\uacc4\ub294?",
+    "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38",
+    "\ub9c8\ubb34\ub9ac",
+    "\uc778\uae30 \uae00",
+    "Labels",
+    "About Us",
+    "Learn More",
+    "Newsletter"
+  ],
+  "h3": [
+    "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+    "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+    "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+    "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95"
+  ],
+  "images": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLgiBl5NMstou3EzCuTX2ckECvhBt3ALlaLdkkODUdmi1MyyR75QhcQZYVugM9u-Q74NFfVgJIi2GjRC1rksRArPOBAOGAXwZi1heJH2OFyVuAVcu5a2_A7UIkAGx4f91KGWexUSiOEVtuJTIr9-DKKGWfml-blpM-s9mE-7lAXcorjSquUpU_2WPwTU/s1600/blogger_logo_350x110_light.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJzoAjVZHkUeENnxP9hafbOK03tLgPrrcn-xfj5TesP5CK8F_vIapN2bJcpDcx1E2CuhD6ySvcbesNShOw6bbpQSUeDHD86QmA5DmbeYBMLku486Yiz6QLWCuUOSqyUZZgYcy3qReCsSHw3_Rp5gmosPjwWzNK5URQrHjDdUyfFzcVvBh1jPPx4Ducxw/s1600/blogger_logo_350x110_dark.png",
+      "alt": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+      "width": "175",
+      "height": "55",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371459-0b117d1b.webp",
+      "alt": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac",
+      "width": "640",
+      "height": "360",
+      "loading": "eager",
+      "lazy_method": "none"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371614-9435ab49.webp",
+      "alt": "\ud074\ub85c\ub4dc MCP \ucee4\ub125\ud130 \ud0d0\uc0c9 \ud0ed\uc5d0\uc11c \uc5f0\uacb0\ub41c \ucee4\ub125\ud130\uc5d0 \uccb4\ud06c \ud45c\uc2dc\uac00 \uc788\ub294 \ud654\uba74",
+      "width": "640",
+      "height": "536",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371740-0fa08296.webp",
+      "alt": "\ud074\ub85c\ub4dc \ub178\uc158 \uc5f0\ub3d9 Notion MCP \ucee4\ub125\ud130 \uc0c1\uc138 \ud654\uba74\uacfc \ub3c4\uad6c \ubaa9\ub85d",
+      "width": "640",
+      "height": "430",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371879-5069742c.webp",
+      "alt": "\ud074\ub85c\ub4dc MCP \ub178\uc158 \ucee4\ub125\ud130 \ub3c4\uad6c \uad8c\ud55c \ud56d\uc0c1 \ud5c8\uc6a9 \uc2b9\uc778 \ud544\uc694 \ucc28\ub2e8 \uc124\uc815 \ud654\uba74",
+      "width": "640",
+      "height": "540",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371991-d62ae840.webp",
+      "alt": "\ud074\ub85c\ub4dc MCP \ub178\uc158 \uc5f0\ub3d9\uc73c\ub85c Search Notion\uacfc Fetch Notion entities\ub97c \uc0ac\uc6a9\ud55c \ub300\ud654 \ud654\uba74",
+      "width": "640",
+      "height": "387",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076372131-869b2c0c.webp",
+      "alt": "\ud074\ub85c\ub4dc MCP \ucee4\uc2a4\ud140 \ucee4\ub125\ud130 \ucd94\uac00 \ucc3d\uc758 \uc774\ub984\uacfc MCP \uc11c\ubc84 URL \uc785\ub825\ub780",
+      "width": "640",
+      "height": "516",
+      "loading": "lazy",
+      "lazy_method": "native"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN7wi79NPXZjB_DNg_OMOuqwHkNoNR9pRuIJbcvckBFjE4i1cEQVDrTEzP4b-YaNVyayDwsmSu8K6wtfjOViLDJc7XuDLoY9G11R45CUxaiEnPwYqnuiyvPpLYWujTcgh0M5UxxGS1ibNwMhEMuhp7tUcpu3W2jvS67rYq-Sevvqs6J9mbcADWlk_hIw/w600-h337-p-k-no-nu/thumb-jettheme-1200x675.jpg",
+      "alt": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+      "width": "600",
+      "height": "338",
+      "loading": "lazy",
+      "lazy_method": "native"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud074\ub85c\ub4dc",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/\ud504\ub86c\ud504\ud2b8",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI\uc6a9\uc5b4",
+        "text": "AI\uc6a9\uc5b4\uc0ac\uc804",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/",
+        "text": "Home",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\uc5c5\ubb34 \uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%20%EB%8F%84%EA%B5%AC?max-results=10",
+        "text": "AI \ub3c4\uad6c",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html",
+        "text": "\ud074\ub85c\ub4dc MCP \ub73b\uacfc AI \uc6a9\uc5b4 \uc815\ub9ac",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html",
+        "text": "Next Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html",
+        "text": "Previous Post",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html",
+        "text": "\uad6c\uae00 \ube14\ub85c\uadf8 \ud14c\ub9c8 \uc124\uce58\ubd80\ud130 \ud074\ub85c\ub4dc \ucd5c\uc801\ud654\uae4c\uc9c0: \uc81c\ud2b8\ud14c\ub9c8 \uc9c1\uc811 \uace0\uce5c \uacfc\uc815",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad50",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%20AI?max-results=10",
+        "text": "\ud504\ub9ac\ub79c\uc11c AI",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html",
+        "text": "\ud074\ub85c\ub4dc \uc694\uae08\uc81c \ubb34\ub8cc\ub85c \ucda9\ubd84\ud560\uae4c? Pro\u00b7Max \uacb0\uc81c \uc804 \uc810\uac80 (\ud074\ub85c\ub4dc \uac00\uaca9\u00b7\uad6c\ub3c5\ub8cc)",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "3",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \uae00\uc4f0\uae30: AI\uac00 \uc4f4 \uae00, \uc0ac\ub78c \uac80\uc218 \uc5c6\uc774\ub294 \uacf5\uac1c \ubabb \ud558\uac8c \ub9cc\ub4e0 \uc774\uc720",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "4",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html",
+        "text": "\ub85c\uceec LLM \ucf54\ub529 \uc2e4\ud328\uae30: 9B \ubaa8\ub378\uc5d0 \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\uc9f8\ub85c \ub9e1\uacbc\ub354\ub2c8",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "5",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud654",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8?max-results=10",
+        "text": "\ud504\ub86c\ud504\ud2b8",
+        "rel": [
+          "tag"
+        ]
+      },
+      {
+        "href": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html",
+        "text": "\ud074\ub85c\ub4dc \ube14\ub85c\uadf8 \uc790\ub3d9\ud654 \ud504\ub86c\ud504\ud2b8 \uaddc\uce59 15\uac00\uc9c0: AI\uac00 \uacbd\ud5d8\uc744 \uc9c0\uc5b4\ub0b4\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc740 \ubc29\ubc95",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/AI%EC%9A%A9%EC%96%B4?max-results=10",
+        "text": "AI\uc6a9\uc5b45",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%A1%9C%EC%BB%ACLLM?max-results=10",
+        "text": "\ub85c\uceecLLM2",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%8A%A4%ED%82%A8?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc2a4\ud0a81",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9E%90%EB%8F%99%ED%99%94?max-results=10",
+        "text": "\ube14\ub85c\uadf8\uc790\ub3d9\ud65410",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%9A%94%EA%B8%88%EC%A0%9C%20%EB%B9%84%EA%B5%90?max-results=10",
+        "text": "\uc694\uae08\uc81c \ube44\uad501",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4?max-results=10",
+        "text": "\uc81c\ubbf8\ub098\uc7741",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/search/label/%ED%81%B4%EB%A1%9C%EB%93%9C?max-results=10",
+        "text": "\ud074\ub85c\ub4dc23",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page.html",
+        "text": "\uc774\uc6a9\uc57d\uad00",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/blog-page_18.html",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "rel": []
+      },
+      {
+        "href": "https://www.jiwon4u.kr/p/about.html",
+        "text": "\ubb38\uc758\ud558\uae30",
+        "rel": []
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.instagram.com/jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.threads.com/@jiwon4u",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595099275749&locale=ko_KR",
+        "text": "",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://pinterest.com/pin/create/button/?url=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html&media=https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ue92Atk-c-Wb4FzdDZ1iOdIEDpins6hzNgS02P_TK2-dW37qKUyHrPQJyD4cmZsu6-c9lYYyKB2Vd6_0SILGKugsih9vO2uJ1zwDgTVAbEBUeSdCjRTqrN60JkrX0bKqsUIK7Ded68_fXBSqR-MOSyUS-dzUWKFmw",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.tumblr.com/share/link?url=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://wa.me/?text=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://t.me/share/url?url=https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371459-0b117d1b.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371614-9435ab49.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371740-0fa08296.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://mcp.notion.com/mcp",
+        "text": "https://mcp.notion.com/mcp",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371879-5069742c.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371991-d62ae840.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076372131-869b2c0c.webp",
+        "text": "",
+        "rel": []
+      },
+      {
+        "href": "https://mcp.example.com/mcp)\uc744",
+        "text": "https://mcp.example.com/mcp)\uc744",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp",
+        "text": "Claude \uace0\uac1d\uc9c0\uc6d0: Get started with custom connectors using remote MCP",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities",
+        "text": "Claude \uace0\uac1d\uc9c0\uc6d0: Use connectors to extend Claude's capabilities",
+        "rel": [
+          "noopener"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/posts/8122843286579060388",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/blog/post/edit/8122843286579060388/390470865644344432",
+        "text": "",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.blogger.com/comment/frame/8122843286579060388?po=390470865644344432&hl=ko&saa=85391&origin=https://www.jiwon4u.kr&skin=contempo",
+        "text": "Add Comment",
+        "rel": [
+          "nofollow",
+          "noopener",
+          "noreferrer"
+        ]
+      },
+      {
+        "href": "https://www.jettheme.com",
+        "text": "JetTheme.com",
+        "rel": []
+      }
+    ]
+  },
+  "schema": [
+    {
+      "@type": "BlogPosting",
+      "headline": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac",
+      "description": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \ucee4\ub125\ud130 \ubaa9\ub85d\uc5d0\uc11c \uace0\ub974\ub294 \ubc95\uacfc \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\uc5d0 \uc11c\ubc84 \uc8fc\uc18c\ub97c \ub123\ub294 \ubc95, \ub178\uc158 \uc5f0\ub3d9 \ub4a4 \ub3c4\uad6c \uad8c\ud55c\uc744 \uc815\ud558\ub294 \uc21c\uc11c\uc640 \uc548\uc804\ud558\uac8c \uc4f0\ub294 \uae30\uc900\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+      "keywords": "\ud074\ub85c\ub4dc mcp, \ud074\ub85c\ub4dc mcp \uc5f0\uacb0, \ud074\ub85c\ub4dc \ucee4\ub125\ud130, \ud074\ub85c\ub4dc \ub178\uc158 \uc5f0\ub3d9, claude mcp",
+      "datePublished": "2026-10-16T08:32:14+09:00",
+      "dateModified": "2026-10-18T22:00:40+09:00",
+      "author": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "\uc9c0\uc6d0\ud3ec\uc720"
+      },
+      "image": "https://storage.googleapis.com/jiwon4u-blog-images/posts%2F1792076371459-0b117d1b.webp"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc MCP\ub294 \uc5b4\ub514\uc11c \uc5f0\uacb0\ud558\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "claude.ai\uc758 \uc0ac\uc6a9\uc790 \uc9c0\uc815 > \ucee4\ub125\ud130\uc5d0\uc11c \uc5f0\uacb0\ud574\uc694. \ubaa9\ub85d\uc5d0\uc11c \uace0\ub974\uac70\ub098 \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\ub85c \uc11c\ubc84 URL\uc744 \ub123\uc73c\uba74 \ub429\ub2c8\ub2e4. \uc5f0\uacb0\ud55c \ucee4\ub125\ud130\ub294 \ucc44\ud305\ucc3d \uc67c\ucabd \uc544\ub798 '+' > \ucee4\ub125\ud130\uc5d0\uc11c \ub300\ud654\ub9c8\ub2e4 \ucf1c\uace0 \ub04c \uc218 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc MCP \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\ub294 \ubb34\ub8cc\ub85c \uc4f8 \uc218 \uc788\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ub124, Free \uc694\uae08\uc81c\uc5d0\uc11c\ub3c4 \uc4f8 \uc218 \uc788\uc9c0\ub9cc \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\ub294 1\uac1c\uae4c\uc9c0\uc608\uc694. Pro\u00b7Max\u00b7Team\u00b7Enterprise\ub3c4 \uac00\ub2a5\ud558\uace0, Team\u00b7Enterprise\ub294 \uc18c\uc720\uc790\uac00 \uc870\uc9c1\uc5d0 \uba3c\uc800 \ucd94\uac00\ud574\uc57c \ud574\uc694. \uc774 \uc870\uac74\uc740 Claude \uace0\uac1d\uc9c0\uc6d0 \ubb38\uc11c\uc758 \ucee4\uc2a4\ud140 \ucee4\ub125\ud130 \uc548\ub0b4\uc5d0 \ub098\uc640 \uc788\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ud074\ub85c\ub4dc\uac00 \ub178\uc158 \ud398\uc774\uc9c0\ub97c \ub9c8\uc74c\ub300\ub85c \uace0\uce58\uc9c0\ub294 \uc54a\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\ub3c4\uad6c \uad8c\ud55c\uc744 \uc2b9\uc778 \ud544\uc694\ub85c \ub450\uba74 \uc2e4\ud589 \uc804\uc5d0 \ud655\uc778\uc744 \ubc1b\uc544\uc694. \uc77d\uae30\ub9cc \uc2dc\ud0a4\uace0 \uc2f6\ub2e4\uba74 \ud504\ub86c\ud504\ud2b8\uc5d0 '\uace0\uce58\uc9c0 \ub9d0\uace0 \uc77d\uae30\ub9cc \ud574 \uc918'\ub77c\uace0 \uc801\ub294 \ubc29\ubc95\ub3c4 \uc788\uc5b4\uc694. \uc4f0\uae30 \ub3c4\uad6c\ub294 \uc2b9\uc778 \ud544\uc694\ub098 \ucc28\ub2e8\uc73c\ub85c \ub450\ub294 \uac78 \uad8c\ud574\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "claude mcp \uc11c\ubc84 \uc8fc\uc18c\ub294 \uc5b4\ub5a4 \ud615\uc2dd\uc73c\ub85c \ub123\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc11c\ubc84\uac00 MCP \uc694\uccad\uc744 \ubc1b\ub294 HTTPS \uc8fc\uc18c\ub97c \ub123\uc5b4\uc694. \ucd94\uac00 \ucc3d\uc758 \uc608\uc2dc\ub294 https://mcp.example.com/mcp \ud615\ud0dc\uc608\uc694. \ub178\uc158 \ucee4\ub125\ud130 \uc0c1\uc138 \ud654\uba74\uc5d0\ub294 https://mcp.notion.com/mcp\uac00 \ud45c\uc2dc\ub410\uc5b4\uc694."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "\ub0b4 \ucef4\ud4e8\ud130\uc5d0\uc11c\ub9cc \ub3c4\ub294 \ub85c\uceec MCP \uc11c\ubc84\ub3c4 claude.ai\uc5d0 \uc5f0\uacb0\ub418\ub098\uc694?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\uc5f0\uacb0\ub418\uc9c0 \uc54a\uc544\uc694. claude_desktop_config.json\uc5d0 \uc801\ub294 \ub85c\uceec MCP \uc11c\ubc84\ub294 Cowork\uc640 claude.ai\uc5d0\uc11c \uc4f8 \uc218 \uc5c6\uc5b4\uc694. \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\ub294 Anthropic \ud074\ub77c\uc6b0\ub4dc\uc5d0\uc11c \uc811\uc18d\ud558\ubbc0\ub85c \uacf5\uac1c \uc778\ud130\ub137\uc5d0\uc11c \uc811\uadfc \uac00\ub2a5\ud55c \uc6d0\uaca9 \uc11c\ubc84\uc5ec\uc57c \ud574\uc694."
+          }
+        }
+      ]
+    }
+  ],
+  "open_graph": {
+    "og:url": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+    "og:title": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720",
+    "og:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ue92Atk-c-Wb4FzdDZ1iOdIEDpins6hzNgS02P_TK2-dW37qKUyHrPQJyD4cmZsu6-c9lYYyKB2Vd6_0SILGKugsih9vO2uJ1zwDgTVAbEBUeSdCjRTqrN60JkrX0bKqsUIK7Ded68_fXBSqR-MOSyUS-dzUWKFmw",
+    "og:description": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \ucee4\ub125\ud130 \ubaa9\ub85d\uc5d0\uc11c \uace0\ub974\ub294 \ubc95\uacfc \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\uc5d0 \uc11c\ubc84 \uc8fc\uc18c\ub97c \ub123\ub294 \ubc95, \ub178\uc158 \uc5f0\ub3d9 \ub4a4 \ub3c4\uad6c \uad8c\ud55c\uc744 \uc815\ud558\ub294 \uc21c\uc11c\uc640 \uc548\uc804\ud558\uac8c \uc4f0\ub294 \uae30\uc900\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+    "og:type": "article",
+    "og:locale": "ko",
+    "og:site_name": "\uc9c0\uc6d0\ud3ec\uc720 - \ud074\ub85c\ub4dc \ud65c\uc6a9 \uac00\uc774\ub4dc",
+    "og:image:alt": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac"
+  },
+  "twitter_card": {
+    "twitter:title": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac - \uc9c0\uc6d0\ud3ec\uc720",
+    "twitter:image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ue92Atk-c-Wb4FzdDZ1iOdIEDpins6hzNgS02P_TK2-dW37qKUyHrPQJyD4cmZsu6-c9lYYyKB2Vd6_0SILGKugsih9vO2uJ1zwDgTVAbEBUeSdCjRTqrN60JkrX0bKqsUIK7Ded68_fXBSqR-MOSyUS-dzUWKFmw",
+    "twitter:description": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95\uc744 \uc815\ub9ac\ud588\uc5b4\uc694. \ucee4\ub125\ud130 \ubaa9\ub85d\uc5d0\uc11c \uace0\ub974\ub294 \ubc95\uacfc \ucee4\uc2a4\ud140 \ucee4\ub125\ud130\uc5d0 \uc11c\ubc84 \uc8fc\uc18c\ub97c \ub123\ub294 \ubc95, \ub178\uc158 \uc5f0\ub3d9 \ub4a4 \ub3c4\uad6c \uad8c\ud55c\uc744 \uc815\ud558\ub294 \uc21c\uc11c\uc640 \uc548\uc804\ud558\uac8c \uc4f0\ub294 \uae30\uc900\uae4c\uc9c0 \ub2f4\uc558\uc5b4\uc694.",
+    "twitter:card": "summary_large_image",
+    "twitter:url": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html",
+    "twitter:image:alt": "\ud074\ub85c\ub4dc MCP \uc5f0\uacb0 \ubc29\ubc95: \ucee4\ub125\ud130 \ucd94\uac00\ubd80\ud130 \ub178\uc158 \uc5f0\ub3d9\uae4c\uc9c0 \uc815\ub9ac"
+  },
+  "word_count": 3815,
+  "hreflang": [],
+  "h2_suspicious": [
+    "\ub9c8\ubb34\ub9ac"
+  ]
+}
